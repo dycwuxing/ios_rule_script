@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-07-21 02:27:50
-! Total: 121749
+! Updated: 2022-07-21 21:38:36
+! Total: 121788
 
 
 ||0.code.cotsta.ru^
@@ -767,6 +767,7 @@
 ||2hisnd.com^
 ||2htg.com^
 ||2hukaixi.xyz^
+||2i0da8u7.cn^
 ||2iiyrxk0.com^
 ||2in1pill.com^
 ||2kjg.xyz^
@@ -1683,6 +1684,7 @@
 ||666725.xyz^
 ||666726.xyz^
 ||666727.xyz^
+||666728.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -6476,6 +6478,7 @@
 ||adsterra.org^
 ||adstest.weather.com^
 ||adstime.org^
+||adstk.io^
 ||adstock.pro^
 ||adstock.ru^
 ||adstogo.com^
@@ -12591,6 +12594,7 @@
 ||betawildstarkey.com^
 ||betbanh88.com^
 ||betburdaaffiliates.com^
+||betcdn.biz^
 ||betclic.com^
 ||betemolgar.com^
 ||betendads.com^
@@ -14441,6 +14445,7 @@
 ||budyxjttmjkf.com^
 ||bufamy.com^
 ||bufan.in^
+||bufan.space^
 ||bufetgarrigosa.com^
 ||buffer-control.com^
 ||bufqrxzyrecf.com^
@@ -15269,6 +15274,8 @@
 ||callcreateabash.com^
 ||callelundotre.xyz^
 ||callfire.com^
+||callfor-articles.com^
+||callfor-submissions.com^
 ||callingjustified.com^
 ||callingorator.com^
 ||callisto.fm^
@@ -15725,6 +15732,7 @@
 ||cathodecreped.com^
 ||cathycresser.com^
 ||catiligh.ru^
+||cationinina.one^
 ||catlovermagazine.com^
 ||catnipsdaymen.com^
 ||catokmurah.com^
@@ -18821,6 +18829,7 @@
 ||congrab.com^
 ||congratulatedreside.com^
 ||congressaffrayghosts.com^
+||congsons.uno^
 ||coninemelior.com^
 ||conjectwatson.com^
 ||conjunctionbanner.com^
@@ -19130,6 +19139,7 @@
 ||corba.adtech.us^
 ||corbalanlopez.com^
 ||cordconstraintstress.com^
+||cordha.com^
 ||core-cen-54.com^
 ||core.bluefly.com^
 ||core.royalads.net^
@@ -19571,6 +19581,7 @@
 ||cqbabfsyfqse.com^
 ||cqbphspgvhuk.com^
 ||cqcounter.com^
+||cqdalqx.cn^
 ||cqdjhj.cn^
 ||cqdzjc.com^
 ||cqfygc.xyz^
@@ -20864,6 +20875,7 @@
 ||d1snv67wdds0p2.cloudfront.net^
 ||d1stxfv94hrhia.cloudfront^
 ||d1t4ekjh9ps4ob.cloudfront.net^
+||d1t8it0ywk3xu.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1tpwjufge3qqa.cloudfront.net^
 ||d1tracker.ru^
@@ -22240,6 +22252,7 @@
 ||deposit-your-etransfer.com^
 ||depositnow.xyz^
 ||deposittnow.xyz^
+||deprecated-custom-domains.b-cdn.net^
 ||depresis.com^
 ||depressionwine.com^
 ||deqik.com^
@@ -26052,6 +26065,7 @@
 ||equinix.touchcommerce.com^
 ||equipe157.org^
 ||equipmentshorterradiation.com^
+||equityjesusdisappointment.com^
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||er.search.naver.com^
@@ -32052,6 +32066,8 @@
 ||gnmunbir.rest^
 ||gnn01wl.cn^
 ||gnnmdzbroemx.com^
+||gnnunbis.rest^
+||gnounbit.rest^
 ||gnoyvsielusbi.xyz^
 ||gnpge.com^
 ||gnqqajovkhfmq.com^
@@ -36767,6 +36783,7 @@
 ||igame4free.com^
 ||igamespod.com^
 ||igameunion.com^
+||igaming-warp-service.io^
 ||igaming.biz^
 ||igawfxfnupeb.com^
 ||igcdnnu.com^
@@ -36799,6 +36816,7 @@
 ||igrs.ca^
 ||igru-xbox.net^
 ||igsxvpghnamnsz.com^
+||igtqora.cn^
 ||iguacuairporttransfer.com^
 ||igupodzh.com^
 ||igusoft.com^
@@ -43471,6 +43489,7 @@
 ||ljrshdrbbmwae.xyz^
 ||ljsiir.com^
 ||ljteas.com^
+||ljth.hk^
 ||ljvgxanxkuiw.com^
 ||ljvixhf6i-site.1tempurl.com^
 ||ljwbfghcggfvv.com^
@@ -44244,6 +44263,7 @@
 ||lowervalues.com^
 ||lowes-pianos-and-organs.com^
 ||lowgraveleron.com^
+||lowlatiasan.com^
 ||lowlifebadly.com^
 ||lowlilyamex.com^
 ||lowlocket.com^
@@ -47529,6 +47549,7 @@
 ||mntzr11.net^
 ||mntzrlt.net^
 ||mnusvlgl.com^
+||mnuy56.site^
 ||mnvde.com^
 ||mnvjibhehv.com^
 ||mnwor.xuanlishi.com^
@@ -48804,6 +48825,7 @@
 ||myarab-me.j8inn1zektoe.com^
 ||myarsenalsupply.com^
 ||myasianfetish.com^
+||myattentio.xyz^
 ||myaudience.de^
 ||myaviatorcar.com^
 ||myawrthcsjc.com^
@@ -49902,6 +49924,7 @@
 ||nelsonmyoshop.com^
 ||nemewagro.com^
 ||nemgnephyfmt.xyz^
+||neno.ink^
 ||nenrk.us^
 ||neo-kikaku.jp^
 ||neo-webnet.com^
@@ -49988,6 +50011,7 @@
 ||netcoretech.net^
 ||netcounter.de^
 ||netcozumler.net^
+||netcrew-analysis.jp^
 ||netcscape.com^
 ||netcustos.com^
 ||netdeal.com.br^
@@ -50591,6 +50615,7 @@
 ||nineteenthdipper.com^
 ||ningme.ru^
 ||ningmengshenhuo.com^
+||ningseriencess.pics^
 ||ninja-pattaya.com^
 ||ninja.onap.io^
 ||ninjacashmachine.com^
@@ -51321,6 +51346,7 @@
 ||nuscutsdqqcc.com^
 ||nuseek.com^
 ||nushflxucofk.com^
+||nuslzkb.cn^
 ||nutabuse.com^
 ||nutcropbrute.com^
 ||nutga.com^
@@ -53293,6 +53319,7 @@
 ||ovchjqpdh.com^
 ||ovcksawwem.com^
 ||ovczxzkfkfbb.com^
+||ovdimin.buzz^
 ||ovdolnb.cn^
 ||ovemen.com^
 ||ovenbifaces.cam^
@@ -53698,6 +53725,7 @@
 ||p78lld1s.top^
 ||p7hwvdb4p.com^
 ||p7ivj09f.xyz^
+||p7lvj09f.shop^
 ||p7m1rc80jdum.com^
 ||p90xfury.com^
 ||p90xworkoutdownload.com^
@@ -54872,6 +54900,7 @@
 ||pflhnpu.cn^
 ||pfltlwftndq.com^
 ||pfoohjpdbxt.com^
+||pfpmmxa.xyz^
 ||pfqdxuxoeml.com^
 ||pfskzj.cn^
 ||pftdxepbgk.yaminahmad.com^
@@ -55294,6 +55323,7 @@
 ||pingometer.com^
 ||pings.reembed.com^
 ||pingseli.com^
+||pingtaiba.asia^
 ||pingtas.qq.com^
 ||pinguimdejulho.com^
 ||pinifafi.com^
@@ -56720,6 +56750,7 @@
 ||preteensite.com^
 ||pretencemassage.com^
 ||prettypasttime.com^
+||preurllvrbrvng.com^
 ||prevacid.1.p2l.info^
 ||prevailedballotcaution.com^
 ||prevent-asian-flu.com^
@@ -57479,6 +57510,7 @@
 ||psytupuny.com^
 ||pt-trx.com^
 ||pt-xb.xyz^
+||pt.appirits.com^
 ||pt.beststreams.club^
 ||pt.usefomo.com^
 ||pt0zhwhc26.ru^
@@ -59544,6 +59576,7 @@
 ||realzeit.io^
 ||realzprofessional.com^
 ||reapercase.com^
+||rearedimmortal.com^
 ||rearrangeapostrophemargarita.com^
 ||reashr.com^
 ||reason7crack.com^
@@ -60778,6 +60811,7 @@
 ||rixxvqexdlgrl.com^
 ||riycecerfpjreyx.xyz^
 ||rizfilm.com^
+||rizlhvb.cn^
 ||rizotina.com^
 ||rizzonelli.it^
 ||rjakwq.cn^
@@ -73320,6 +73354,7 @@
 ||unixfuture.com^
 ||unjointbobbed.com^
 ||unkercase.com^
+||unkindvanilla.com^
 ||unkingdiabeth.club^
 ||unknitting.com^
 ||unknown.counsellor.gov.cn^
@@ -77236,6 +77271,7 @@
 ||whoavaud.net^
 ||whoevercloakroom.com^
 ||whoeverfrecklessfrecklesssupper.com^
+||whoican.love^
 ||whoisonline.net^
 ||whoisvisiting.com^
 ||wholecommonposts.com^
@@ -78393,6 +78429,7 @@
 ||www.805m.com^
 ||www.888.com^
 ||www.888poker.com^
+||www.90offbags.com^
 ||www.a2uu36g43l.download^
 ||www.aandgwright.plus.com^
 ||www.abc-tax.jp^
@@ -81441,6 +81478,7 @@
 ||ypreferred.com^
 ||yprnopqzs.com^
 ||ypschool.cn^
+||yptqys.tianqistatic.com^
 ||ypu.samsungelectronics.com^
 ||ypufubegopem.mynetav.org^
 ||ypummbggdjex.com^
@@ -81707,6 +81745,7 @@
 ||yxmkiqdvnxsk.com^
 ||yxngmwzubbaa.com^
 ||yxpkzxyajjan.com^
+||yxpyjyhjj.com^
 ||yxsgrdxga.com^
 ||yxshengda.com^
 ||yxswtummev.info^

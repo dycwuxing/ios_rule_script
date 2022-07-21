@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-21 02:27:46
+# UPDATED: 2022-07-21 21:38:32
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 51479
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 70270
+# DOMAIN-SUFFIX: 70309
 # IP-CIDR: 256
 # URL-REGEX: 303
-# TOTAL: 122393
+# TOTAL: 122432
 00-gov.cn
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -52364,6 +52364,7 @@ zzzrtrcm2.com
 .2hqd0b.cn
 .2htg.com
 .2hukaixi.xyz
+.2i0da8u7.cn
 .2iiyrxk0.com
 .2kjg.xyz
 .2ktd0.cn
@@ -53167,6 +53168,7 @@ zzzrtrcm2.com
 .666725.xyz
 .666726.xyz
 .666727.xyz
+.666728.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -58381,6 +58383,7 @@ zzzrtrcm2.com
 .adstextview.qq.com
 .adstil.indiatimes.com
 .adstime.org
+.adstk.io
 .adstock.pro
 .adstock.ru
 .adstogo.com
@@ -63236,6 +63239,7 @@ zzzrtrcm2.com
 .betarget.de
 .betbanh88.com
 .betburdaaffiliates.com
+.betcdn.biz
 .betclic.com
 .betemolgar.com
 .betendads.com
@@ -64637,6 +64641,7 @@ zzzrtrcm2.com
 .buf.lemonde.fr
 .bufamy.com
 .bufan.in
+.bufan.space
 .bufetgarrigosa.com
 .bugaga.tut.by
 .bugcreator.cn
@@ -65300,6 +65305,8 @@ zzzrtrcm2.com
 .callalelel.info
 .callcreateabash.com
 .callelundotre.xyz
+.callfor-articles.com
+.callfor-submissions.com
 .callingorator.com
 .callisto.fm
 .callmeasurement.com
@@ -65610,6 +65617,7 @@ zzzrtrcm2.com
 .catherinebeverly.com
 .cathodecreped.com
 .catiligh.ru
+.cationinina.one
 .catnipsdaymen.com
 .cats.d20.rs
 .catschickens.com
@@ -68027,6 +68035,7 @@ zzzrtrcm2.com
 .congratulatedreside.com
 .congregorysun.site
 .congressaffrayghosts.com
+.congsons.uno
 .conimicutlighthouse.viessmann-us.com
 .coninemelior.com
 .conjectwatson.com
@@ -68369,6 +68378,7 @@ zzzrtrcm2.com
 .corba.adtech.fr
 .corba.adtech.us
 .corbalanlopez.com
+.cordha.com
 .core-cen-54.com
 .core.royalads.net
 .core.unit-sense.net
@@ -68841,6 +68851,7 @@ zzzrtrcm2.com
 .cq.hq1.influitive.com
 .cqbaitong.cn
 .cqcounter.com
+.cqdalqx.cn
 .cqdjhj.cn
 .cqdzjc.com
 .cqfangduan.com
@@ -69735,6 +69746,7 @@ zzzrtrcm2.com
 .d1snv67wdds0p2.cloudfront.net
 .d1stxfv94hrhia.cloudfront
 .d1t4ekjh9ps4ob.cloudfront.net
+.d1t8it0ywk3xu.cloudfront.net
 .d1t9uctetvi0tu.cloudfront.net
 .d1tpwjufge3qqa.cloudfront.net
 .d1tracker.ru
@@ -71068,6 +71080,7 @@ zzzrtrcm2.com
 .deplayer.net
 .deploreimpendingnasty.com
 .deployads.com
+.deprecated-custom-domains.b-cdn.net
 .depressionwine.com
 .deqik.com
 .deqwas.net
@@ -74415,6 +74428,7 @@ zzzrtrcm2.com
 .eqtaxag.ru
 .eqtrack.americashomeplace.com
 .equipmentshorterradiation.com
+.equityjesusdisappointment.com
 .eqy.link
 .er.5ykj.cn
 .er.5ykj.com
@@ -78491,7 +78505,9 @@ zzzrtrcm2.com
 .gnmunbir.rest
 .gnn01wl.cn
 .gnncc.cc
+.gnnunbis.rest
 .gnnzuo.ormatek.com
+.gnounbit.rest
 .gnoyvsielusbi.xyz
 .gnpge.com
 .gnrdomimplementation.com
@@ -81825,6 +81841,7 @@ zzzrtrcm2.com
 .ig0nr8hhhb.com
 .igame2steam.com
 .igameunion.com
+.igaming-warp-service.io
 .igaming.biz
 .igcdnnu.com
 .igetsend.ru
@@ -81845,6 +81862,7 @@ zzzrtrcm2.com
 .igreskfq.com
 .igrid.org
 .igrs.ca
+.igtqora.cn
 .igusoft.com
 .igvuw.com
 .ih1.fileforums.com
@@ -87370,6 +87388,7 @@ zzzrtrcm2.com
 .ljrtb.cn
 .ljsiir.com
 .ljteas.com
+.ljth.hk
 .ljuer.com
 .ljwbrgipuqqnpe.com
 .ljwckj.love
@@ -88069,6 +88088,7 @@ zzzrtrcm2.com
 .lowervalues.com
 .lowgraveleron.com
 .lowgxl.yokumoku.jp
+.lowlatiasan.com
 .lowlifebadly.com
 .lowlilyamex.com
 .lowlocket.com
@@ -91400,6 +91420,7 @@ zzzrtrcm2.com
 .mntewzlornifzt.com
 .mntzr11.net
 .mntzrlt.net
+.mnuy56.site
 .mnvde.com
 .mnwan.com
 .mnwor.xuanlishi.com
@@ -92328,6 +92349,7 @@ zzzrtrcm2.com
 .myanyone.net
 .myashot.txxx.com
 .myatpe.mebelaero.ru
+.myattentio.xyz
 .myaudience.de
 .mybasilsoup.com
 .mybest.app
@@ -92902,6 +92924,7 @@ zzzrtrcm2.com
 .nemewagro.com
 .nemgnephyfmt.xyz
 .nend.net
+.neno.ink
 .nenrk.us
 .neo-kikaku.jp
 .neoamwhdg.com
@@ -92974,6 +92997,7 @@ zzzrtrcm2.com
 .netcoresmartech.com
 .netcoretech.net
 .netcounter.de
+.netcrew-analysis.jp
 .netdeal.com.br
 .netdebit-counter.de
 .netdirect.nl
@@ -93406,6 +93430,7 @@ zzzrtrcm2.com
 .ningbojipiao.com
 .ningme.ru
 .ningmengshenhuo.com
+.ningseriencess.pics
 .ningxiayy.com
 .ninja.akamaized.net
 .ninja.onap.io
@@ -94008,6 +94033,7 @@ zzzrtrcm2.com
 .nurno.com
 .nurobi.info
 .nuseek.com
+.nuslzkb.cn
 .nutabuse.com
 .nutcropbrute.com
 .nutga.com
@@ -95498,6 +95524,7 @@ zzzrtrcm2.com
 .ouzhijie.top
 .ouzoadru.net
 .ovalweek.com
+.ovdimin.buzz
 .ovdolnb.cn
 .ovemen.com
 .ovementerter.site
@@ -95782,6 +95809,7 @@ zzzrtrcm2.com
 .p74.cc
 .p78lld1s.top
 .p7ivj09f.xyz
+.p7lvj09f.shop
 .p7m1rc80jdum.com
 .p8s.oxbowshop.com
 .p8u.hinet.net
@@ -96654,6 +96682,7 @@ zzzrtrcm2.com
 .pflhnpu.cn
 .pfp.sina.com.cn
 .pfpip.sina.com
+.pfpmmxa.xyz
 .pfqdxuxoeml.com
 .pfskzj.cn
 .pftservice.click
@@ -97022,6 +97051,7 @@ zzzrtrcm2.com
 .pingseli.com
 .pingshetrip.com
 .pingshu365.xyz
+.pingtaiba.asia
 .pingtas.qq.com
 .pingtcss.qq.com
 .pinifafi.com
@@ -98215,6 +98245,7 @@ zzzrtrcm2.com
 .presumptuousreciprocal.com
 .pretencemassage.com
 .prettypasttime.com
+.preurllvrbrvng.com
 .prevacid.1.p2l.info
 .prevailedballotcaution.com
 .prevealhealth.info
@@ -98754,6 +98785,7 @@ zzzrtrcm2.com
 .psywed.com
 .pt-trx.com
 .pt-xb.xyz
+.pt.appirits.com
 .pt.beststreams.club
 .pt.crossmediaservices.com
 .pt.ispot.tv
@@ -100461,6 +100493,7 @@ zzzrtrcm2.com
 .realytics.io
 .realytics.net
 .realzeit.io
+.rearedimmortal.com
 .rearrangeapostrophemargarita.com
 .reashr.com
 .reasonalattracke.info
@@ -101456,6 +101489,7 @@ zzzrtrcm2.com
 .rixaka.com
 .riycecerfpjreyx.xyz
 .rizeintellingente.info
+.rizlhvb.cn
 .rizzonelli.it
 .rj.baidu.cn
 .rj.baidu.com
@@ -113885,6 +113919,7 @@ zzzrtrcm2.com
 .unixfuture.com
 .unjointbobbed.com
 .unjs.jfcdns.com
+.unkindvanilla.com
 .unkingdiabeth.club
 .unknitting.com
 .unknownads.com
@@ -116816,6 +116851,7 @@ zzzrtrcm2.com
 .whoavaud.net
 .whoevercloakroom.com
 .whoeverfrecklessfrecklesssupper.com
+.whoican.love
 .whoisonline.net
 .whoisvisiting.com
 .wholecommonposts.com
@@ -117702,6 +117738,7 @@ zzzrtrcm2.com
 .www.888.com
 .www.888poker.com
 .www.88infra-strat.com
+.www.90offbags.com
 .www.a2uu36g43l.download
 .www.aandgwright.plus.com
 .www.abc-tax.jp
@@ -120408,6 +120445,7 @@ zzzrtrcm2.com
 .yppreudkgmya.xyz
 .ypqgnx.morizon.pl
 .ypreferred.com
+.yptqys.tianqistatic.com
 .ypu.samsungelectronics.com
 .ypymsisnwv.com
 .ypzhwf.cn
@@ -120674,6 +120712,7 @@ zzzrtrcm2.com
 .yxjibph.cn
 .yxkhpk.com
 .yxmspx.com
+.yxpyjyhjj.com
 .yxsgrdxga.com
 .yxsnf.cn
 .yxswtummev.info
