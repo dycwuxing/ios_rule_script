@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-19 20:14:57
+# UPDATED: 2022-07-23 02:31:11
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24841
+# DOMAIN-SUFFIX: 24849
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25030
+# TOTAL: 25038
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
@@ -576,6 +576,8 @@ testflight.apple.com
 .13bwin.com
 .13js.vip
 .13tang.top
+.14.102.250.18
+.14.102.250.19
 .141529.com
 .141hongkong.com
 .141jj.com
@@ -683,6 +685,7 @@ testflight.apple.com
 .17.live
 .171gifs.com
 .173ng.com
+.174.142.105.153
 .1748097.com
 .17598732.com
 .1762187.com
@@ -1905,6 +1908,9 @@ testflight.apple.com
 .66dofan.com
 .66go.vip
 .66van.com
+.67.220.91.15
+.67.220.91.18
+.67.220.91.23
 .6723119.com
 .6733030.com
 .67555708.com
@@ -1936,6 +1942,7 @@ testflight.apple.com
 .6896385.com
 .68db.com
 .68letou.com
+.69.65.19.160
 .69.mu
 .6934901.com
 .694452.cc
@@ -2005,6 +2012,7 @@ testflight.apple.com
 .7154744.com
 .71588.com
 .7167584.com
+.72.52.81.22
 .72.cr.rs
 .72.iseoz.com
 .7230874.com

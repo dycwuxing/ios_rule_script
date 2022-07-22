@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-19 20:16:22
+# UPDATED: 2022-07-23 02:32:40
 # HOST: 4
 # HOST-KEYWORD: 22
-# HOST-SUFFIX: 24547
+# HOST-SUFFIX: 24555
 # IP-CIDR: 92
 # IP6-CIDR: 3
 # USER-AGENT: 7
-# TOTAL: 24675
+# TOTAL: 24683
 HOST,api.waqi.info,ProxyLite
 HOST,aqi.aqicn.org,ProxyLite
 HOST,assets-priconne-redive-us.akamaized.net,ProxyLite
@@ -359,6 +359,8 @@ HOST-SUFFIX,13ad.de,ProxyLite
 HOST-SUFFIX,13bwin.com,ProxyLite
 HOST-SUFFIX,13js.vip,ProxyLite
 HOST-SUFFIX,13tang.top,ProxyLite
+HOST-SUFFIX,14.102.250.18,ProxyLite
+HOST-SUFFIX,14.102.250.19,ProxyLite
 HOST-SUFFIX,141529.com,ProxyLite
 HOST-SUFFIX,141hongkong.com,ProxyLite
 HOST-SUFFIX,141jj.com,ProxyLite
@@ -466,6 +468,7 @@ HOST-SUFFIX,16xxx.net,ProxyLite
 HOST-SUFFIX,17.live,ProxyLite
 HOST-SUFFIX,171gifs.com,ProxyLite
 HOST-SUFFIX,173ng.com,ProxyLite
+HOST-SUFFIX,174.142.105.153,ProxyLite
 HOST-SUFFIX,1748097.com,ProxyLite
 HOST-SUFFIX,17598732.com,ProxyLite
 HOST-SUFFIX,1762187.com,ProxyLite
@@ -1686,6 +1689,9 @@ HOST-SUFFIX,669m.app,ProxyLite
 HOST-SUFFIX,66dofan.com,ProxyLite
 HOST-SUFFIX,66go.vip,ProxyLite
 HOST-SUFFIX,66van.com,ProxyLite
+HOST-SUFFIX,67.220.91.15,ProxyLite
+HOST-SUFFIX,67.220.91.18,ProxyLite
+HOST-SUFFIX,67.220.91.23,ProxyLite
 HOST-SUFFIX,6723119.com,ProxyLite
 HOST-SUFFIX,6733030.com,ProxyLite
 HOST-SUFFIX,67555708.com,ProxyLite
@@ -1717,6 +1723,7 @@ HOST-SUFFIX,688ra.com,ProxyLite
 HOST-SUFFIX,6896385.com,ProxyLite
 HOST-SUFFIX,68db.com,ProxyLite
 HOST-SUFFIX,68letou.com,ProxyLite
+HOST-SUFFIX,69.65.19.160,ProxyLite
 HOST-SUFFIX,69.mu,ProxyLite
 HOST-SUFFIX,6934901.com,ProxyLite
 HOST-SUFFIX,694452.cc,ProxyLite
@@ -1786,6 +1793,7 @@ HOST-SUFFIX,7142828.com,ProxyLite
 HOST-SUFFIX,7154744.com,ProxyLite
 HOST-SUFFIX,71588.com,ProxyLite
 HOST-SUFFIX,7167584.com,ProxyLite
+HOST-SUFFIX,72.52.81.22,ProxyLite
 HOST-SUFFIX,72.cr.rs,ProxyLite
 HOST-SUFFIX,72.iseoz.com,ProxyLite
 HOST-SUFFIX,7230874.com,ProxyLite

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-22 14:52:31
+# UPDATED: 2022-07-23 02:30:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 45990
+# DOMAIN: 45997
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 89353
 # IP-CIDR: 257
 # URL-REGEX: 303
-# TOTAL: 136167
+# TOTAL: 136174
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1149,6 +1149,7 @@ a.villeges.com
 a.vonage.com
 a.watershed-publishing.com
 a.yiyuancq.com
+a.zuowenku.net
 a02d0adbca0.com
 a1.adthink.com
 a1.greenadworks.net
@@ -5546,6 +5547,7 @@ bencarsrl.com
 benchmarkingstuff.com
 bendelsa.com
 benfvickjrasa.com
+bengbaly.fun
 bengchivv.cn
 bengchizz.cn
 bengkalisinfo.com
@@ -21284,6 +21286,7 @@ jmewxbvmcjmur.com
 jmextrjbse.com
 jmgoforth.com
 jmimktvupp.com
+jmking.cn
 jmkjgv.myscriptcase.com
 jmklkttenjpfzn.com
 jmp2click.com
@@ -26550,6 +26553,7 @@ murad.touchcommerce.com
 murbil.hostei.com
 murphysautomart.net
 musakaplan.com
+musan.love
 musclegainingtips.com
 musclepots.com
 musclerku.com
@@ -28475,6 +28479,7 @@ obkom.net.ua
 oblbewqykouak.com
 obmen-qiwi.com
 obmokhi.info
+obnpazq.cn
 obpzuctfozram.com
 obqtccxcfjmd.com
 obrayxknu.com
@@ -42816,6 +42821,7 @@ wpkbwrkejd.com
 wpkcfajkeytrro.com
 wpktjtwsidcz.com
 wplqgfpj.com
+wpqmiq.cn
 wpqvggsnc.com
 wpstage.adelphic.com
 wpswyoyev.com
@@ -45929,6 +45935,7 @@ zxdardwpsuf.com
 zxdgmcgpp.com
 zxevjtzvqlxy.com
 zxeyqwgwsfv.com
+zxiaochun.site
 zxiikxeagmferu.com
 zxjmybvewmso.com
 zxkrdvrijsp.com

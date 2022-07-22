@@ -1,56 +1,84 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-22 14:52:30
-# DOMAIN: 45990
+# UPDATED: 2022-07-23 02:30:47
+# DOMAIN: 45997
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 89353
 # IP-CIDR: 257
-# TOTAL: 135864
+# TOTAL: 135871
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 46186911.vtt
 666732.xyz
 80055404.vtt
+a.zuowenku.net
 absurdapple.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+adsdk.yandex.ru
+an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bengbaly.fun
+bs.yandex.ru
 ccpvmjh.cn
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
 efficientapplesimulator.com
 fpb1.apple886.com
+ganon.yahoo.com
+geo.yahoo.com
 https-apple.com
 iadsdk.apple.com
 ib.snssdk.com
+informer.yandex.ru
+jill.fc.yahoo.com
+jmking.cn
 jpaasne.e.shifen.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+musan.love
+nol.yahoo.com
+obnpazq.cn
 pr.comet.yahoo.com
+pv.sohu.com
 rrf.fat1domain1
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
+supportmetrics.apple.com
 syb.hk
+test.vast
 theapple.site
+visit.webhosting.yahoo.com
+wpqmiq.cn
 wzjs1.oss-accelerate.aliyuncs.com
 youtube.local
 yvajogj.cn
 zkgvsoo.cn
+zxiaochun.site
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45958,31 +45986,13 @@ yieldify-static-files.s3.amazonaws.com
 ymsdk.apkcar.com
 yume.com
 zen.sr
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
 amethyst.zappos.com
-an.yandex.ru
-apple.www.letv.com
-awaps.yandex.ru
-bats.video.yahoo.com
-bs.yandex.ru
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
-ganon.yahoo.com
-geo.yahoo.com
 gotie.tunein.com
-informer.yandex.ru
-jill.fc.yahoo.com
 log.kuwo.cn
-mc.yandex.ru
 metrics.apple.com
 microlearning.att.com
-nol.yahoo.com
 ohm-dot-hackster-io.appspot.com
-pv.sohu.com
 pxl.indeed.com
 reports.tunein.com
 retcode.taobao.com
@@ -45990,10 +46000,7 @@ securemetrics.apple.com
 ssp.rambler.ru
 sstats.fintro.be9.kohls.com
 sugar.zhihu.com
-supportmetrics.apple.com
-test.vast
 tgt.maep.ibm.com
-visit.webhosting.yahoo.com
 wl.jd.com
 zxvttq.goldapple.ru
 opencloud.wostore.cn

@@ -21,18 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2022-07-22 14:52:27
+最后更新时间：2022-07-23 02:30:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | AND | 1  | 
-| DOMAIN | 45990  | 
+| DOMAIN | 45997  | 
 | DOMAIN-KEYWORD | 264  | 
 | DOMAIN-SUFFIX | 89353  | 
 | IP-CIDR | 257  | 
 | URL-REGEX | 303  | 
-| TOTAL | 136168  | 
+| TOTAL | 136175  | 
 
 
 ## Surge 
@@ -133,11 +133,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 - https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Filters/githubacct001_AD.list
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/annoyances-filter.txt
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/social-media-filter.txt
