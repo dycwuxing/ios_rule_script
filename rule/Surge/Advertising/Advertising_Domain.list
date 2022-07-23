@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-22 14:51:37
+# UPDATED: 2022-07-24 02:27:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 51479
+# DOMAIN: 51477
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 70364
+# DOMAIN-SUFFIX: 70386
 # IP-CIDR: 256
 # URL-REGEX: 303
-# TOTAL: 122487
+# TOTAL: 122507
 00-gov.cn
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -4586,7 +4586,6 @@ api.lbesecapi.com
 api.lce9v.com
 api.liveclicker.net
 api.mcwbiz.com
-api.micloud.xiaomi.net
 api.miner.beeppool.org
 api.minexmr.com
 api.mini.wps.cn
@@ -16117,7 +16116,6 @@ find-abc.com
 find-cheap-hotels.org
 find-my-iphone-me.com
 find-myiphone6.com
-find.api.micloud.xiaomi.net
 findandtry.com
 findapps.in.net
 findbestsolution.net
@@ -45269,8 +45267,8 @@ us.r1.yimg.com
 us.rewardearners.com
 us.s1.yimg.com
 us.scaliseshop.com
-us.sfsapi.micloud.xiaomi.net
-us.smsapi.micloud.xiaomi.net
+us.sfs
+us.sms
 us.t1.yimg.com
 us.u1.yimg.com
 us.unidingcom.com
@@ -52082,6 +52080,7 @@ zzzrtrcm2.com
 .1rx.io
 .1rxntv.io
 .1s8pj.cn
+.1so8inqb.cn
 .1sputnik.ru
 .1talking.net
 .1tamtam.com
@@ -53172,6 +53171,7 @@ zzzrtrcm2.com
 .666727.xyz
 .666728.xyz
 .666729.xyz
+.666732.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -54125,6 +54125,7 @@ zzzrtrcm2.com
 .a.youdao.com
 .a.yuzhainan.com
 .a.zdg.de
+.a.zuowenku.net
 .a.zuowenxuan.cn
 .a002803829.com
 .a013.com
@@ -57466,7 +57467,6 @@ zzzrtrcm2.com
 .ads.fayettevillenc.com
 .ads.feedly.com
 .ads.feelingtouch.com
-.ads.femmefab.nl
 .ads.ferianc.com
 .ads.fileindexer.com
 .ads.filmup.com
@@ -58027,7 +58027,6 @@ zzzrtrcm2.com
 .ads2.clickad.com
 .ads2.collegclub.com
 .ads2.collegeclub.com
-.ads2.femmefab.nl
 .ads2.gamecity.net
 .ads2.haber3.com
 .ads2.msn.com
@@ -58365,7 +58364,6 @@ zzzrtrcm2.com
 .adsrvr.com
 .adsrvr.io
 .adsrvr.org
-.adsrvus.com
 .adss.dotdo.net
 .adssend.net
 .adssl01.adtech.fr
@@ -58933,6 +58931,7 @@ zzzrtrcm2.com
 .aem-collector.daumkakao.io
 .aenaux.com
 .aencx.net
+.aengbalz.fun
 .aentafmxkmhea.com
 .aeoliancorojo.com
 .aeolismtact.com
@@ -59935,6 +59934,7 @@ zzzrtrcm2.com
 .amazon-cornerstone.com
 .amazon-indonesia.vip
 .amazonaax.com
+.amazonclix.com
 .amazy.ru
 .ambaab.com
 .ambercrow.com
@@ -63080,6 +63080,7 @@ zzzrtrcm2.com
 .benevolencegardener.com
 .benfkw.cn
 .benfly.net
+.bengbaly.fun
 .benimreklam.com
 .benonblkd.xyz
 .benoopto.com
@@ -65761,6 +65762,7 @@ zzzrtrcm2.com
 .ccouv.com
 .ccpa.psg.nexstardigital.net
 .ccpmo.com
+.ccpvmjh.cn
 .ccr.yxdown.com
 .ccrtvi.com
 .ccscserver.com
@@ -71959,6 +71961,7 @@ zzzrtrcm2.com
 .dmouy.cn
 .dmp.citiservi.es
 .dmp.mall.tv
+.dmp.sbermarketing.ru
 .dmp.sina.cn
 .dmp.sina.com.cn
 .dmpcdn.el-mundo.net
@@ -81929,6 +81932,7 @@ zzzrtrcm2.com
 .iigushi.com
 .iii.6park.com
 .iiiuuu.top
+.iijls.com
 .iipbuas.cn
 .iiprpq1bsedg.com
 .iirpvchv.cn
@@ -84266,6 +84270,7 @@ zzzrtrcm2.com
 .jmcnwr.bricoprive.com
 .jmgehn.cn
 .jmhai.com
+.jmking.cn
 .jmkxinfekxa.com
 .jmnvxpgmcbrk.xyz
 .jmoiubqzzrsugm.com
@@ -91040,7 +91045,6 @@ zzzrtrcm2.com
 .mignished-sility.com
 .mignoops.net
 .migrantspiteconnecting.com
-.migrate.driveapi.micloud.xiaomi.net
 .migu.kssws.ks-cdn.com
 .mihui.com
 .miidi.net
@@ -92245,6 +92249,7 @@ zzzrtrcm2.com
 .murpic.com
 .murqyi.com
 .musakelep.com
+.musan.love
 .muscle-relaxers.1.p2l.info
 .muscularstraight.com
 .musedalisma.com
@@ -94434,6 +94439,7 @@ zzzrtrcm2.com
 .obmnt.com
 .obnarium.com
 .obnoxiousstackderide.com
+.obnpazq.cn
 .obovsemonline.ru
 .oboxads.com
 .obqetks.cn
@@ -95839,6 +95845,7 @@ zzzrtrcm2.com
 .p30rank.ir
 .p3p.sogou.com
 .p3tt.com
+.p4f52tll.cn
 .p4p.sina.com.cn
 .p4psearch.china.alibaba.com
 .p543.inquirer.com
@@ -108595,6 +108602,7 @@ zzzrtrcm2.com
 .stsodds.sts.pl
 .stsywl.com
 .stt.nimbusweb.me
+.sttcc.top
 .stub.mainspotvideosfree.best
 .stubantiquarianjury.com
 .stucystymy.com
@@ -108991,6 +108999,7 @@ zzzrtrcm2.com
 .svekolka.com
 .sverd.net
 .svfwer.top
+.svi.online.sberbank.ru
 .sviklutt.site
 .sviter2s1olenyami1.com
 .svitnews.com
@@ -109137,6 +109146,7 @@ zzzrtrcm2.com
 .sy.ameblo.jp
 .sy.kcxsyz.com
 .sy123888.com
+.syb.hk
 .sybsybe.xyz
 .sycbbs.com
 .sydneygfpink.com
@@ -113284,6 +113294,7 @@ zzzrtrcm2.com
 .twittad.com
 .twitterzs.com
 .twiz.wizaly.fr
+.twjsx.cn
 .twldmx.com
 .twlihzvdrdf.com
 .twlrvvejszww.com
@@ -114072,6 +114083,7 @@ zzzrtrcm2.com
 .uoldid.ru
 .uole.ad.uol.com.br
 .uolwbz.heine.de
+.uongsona.uno
 .uontent.powvideo.net
 .uopmcdnpad.com
 .uoredi.com
@@ -117211,6 +117223,7 @@ zzzrtrcm2.com
 .wlapdczzpceb.com
 .wlbann.com
 .wlengrclxzypf.com
+.wlhcb.cn
 .wljj56.com
 .wlkojk.orange.ro
 .wlkpa.cn
@@ -117474,6 +117487,7 @@ zzzrtrcm2.com
 .wppdgupelr.com
 .wppei.cn
 .wppluginspro.com
+.wpqmiq.cn
 .wpqsmse.cn
 .wprixk.brocard.ua
 .wpshsdk.com
@@ -117654,6 +117668,7 @@ zzzrtrcm2.com
 .wty007.xyz
 .wtzgaa.com
 .wu36n.cn
+.wu3wl2g7.cn
 .wu65.com
 .wubsauth.net
 .wuckaity.com
@@ -119353,6 +119368,7 @@ zzzrtrcm2.com
 .xnghmc.com
 .xnjpg.com
 .xnjzsn.com
+.xnxonbf.cn
 .xo704w18yt75.filmustage.com
 .xoalt.com
 .xoassxowovsrk.com
@@ -119750,6 +119766,7 @@ zzzrtrcm2.com
 .yahe.fashion
 .yahekby.cn
 .yajiuwz.xyz
+.yajlpetccbodq.com
 .yajvdoporjtz.com
 .yakuya.cn
 .yallarec.com
@@ -120719,6 +120736,7 @@ zzzrtrcm2.com
 .yuyanbaojie.cn
 .yuyinqs.com
 .yuyue008.cn
+.yvajogj.cn
 .yvcjyi.beymen.com
 .yvfnb.cn
 .yvgqtrnncvearx.xyz
@@ -121428,6 +121446,7 @@ zzzrtrcm2.com
 .zkczbti.cn
 .zkdkvnzsdxge.info
 .zkfborg.cn
+.zkgvsoo.cn
 .zkit.club
 .zkjh.info
 .zkmhhr1fr79z.dictionary.basabali.org
@@ -121733,6 +121752,7 @@ zzzrtrcm2.com
 .zxhrq.cn
 .zxhstudy.online
 .zxhymh.com
+.zxiaochun.site
 .zxin131.cn
 .zxjjzx.com
 .zxlmnet.com

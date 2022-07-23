@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-07-23 02:29:59
-! Total: 121843
+! Updated: 2022-07-24 02:27:21
+! Total: 121863
 
 
 ||0.code.cotsta.ru^
@@ -488,6 +488,7 @@
 ||1scologin-online.com^
 ||1scotia-verifications.com^
 ||1securitybmo.com^
+||1so8inqb.cn^
 ||1sputnik.ru^
 ||1stand2ndmortgage.com^
 ||1talking.net^
@@ -1688,6 +1689,7 @@
 ||666727.xyz^
 ||666728.xyz^
 ||666729.xyz^
+||666732.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -2411,6 +2413,7 @@
 ||a.xue126.com^
 ||a.xzzsjz.com^
 ||a.zdg.de^
+||a.zuowenku.net^
 ||a002803829.com^
 ||a013.com^
 ||a0675c1160de6c6.com^
@@ -5140,7 +5143,6 @@
 ||ads.faxo.com^
 ||ads.fayettevillenc.com^
 ||ads.feelingtouch.com^
-||ads.femmefab.nl^
 ||ads.ferianc.com^
 ||ads.fiat-bg.org^
 ||ads.filecloud.com^
@@ -6077,7 +6079,6 @@
 ||ads2.drivelinemedia.com^
 ||ads2.emeraldcoast.com^
 ||ads2.exhedra.com^
-||ads2.femmefab.nl^
 ||ads2.firingsquad.com^
 ||ads2.gamecity.net^
 ||ads2.haber3.com^
@@ -6463,7 +6464,6 @@
 ||adsrvgateway.com^
 ||adsrvr.com^
 ||adsrvr.io^
-||adsrvus.com^
 ||adssend.net^
 ||adssites.net^
 ||adssl01.adtech.fr^
@@ -7042,6 +7042,7 @@
 ||aelphotog.pro^
 ||aemxvcqi.com^
 ||aenaux.com^
+||aengbalz.fun^
 ||aenrqpnfmdogf.com^
 ||aens.belugaboost.com^
 ||aentafmxkmhea.com^
@@ -8406,6 +8407,7 @@
 ||amazon.secure-center.org^
 ||amazonaax.com^
 ||amazoncards.dlcodes.com^
+||amazonclix.com^
 ||amazoncodefree.com^
 ||amazongiftcardgenerator.org^
 ||amazongiftcardgiveaway.com^
@@ -9142,7 +9144,6 @@
 ||api.liveclicker.net^
 ||api.mcwbiz.com^
 ||api.mediation.amberweather.com^
-||api.micloud.xiaomi.net^
 ||api.minexmr.com^
 ||api.miui.security.xiaomi.com^
 ||api.mobojoy.baidu.com^
@@ -12306,6 +12307,7 @@
 ||benfkw.cn^
 ||benfly.net^
 ||benfvickjrasa.com^
+||bengbaly.fun^
 ||bengchivv.cn^
 ||bengchizz.cn^
 ||bengkalisinfo.com^
@@ -15900,6 +15902,7 @@
 ||ccola353.000webhostapp.com^
 ||ccpmo.com^
 ||ccpnzfts.com^
+||ccpvmjh.cn^
 ||ccrtvi.com^
 ||ccs.infospace.com^
 ||ccsagacheats.com^
@@ -23250,6 +23253,7 @@
 ||dmojscqlwewu.com^
 ||dmp.citiservi.es^
 ||dmp.mall.tv^
+||dmp.sbermarketing.ru^
 ||dmpcloud.net^
 ||dmpcounter.com^
 ||dmphotos.net^
@@ -28433,7 +28437,6 @@
 ||find-my-iphone-me.com^
 ||find-myiphone6.com^
 ||find-your-profithere11.com^
-||find.api.micloud.xiaomi.net^
 ||findapps.in.net^
 ||findbestsolution.net^
 ||findbetterresults.com^
@@ -36898,6 +36901,7 @@
 ||iiid.bluescream.cn^
 ||iiiion.000webhostapp.com^
 ||iiiuuu.top^
+||iijls.com^
 ||iijmodcvlwfk.com^
 ||iingalleri.com^
 ||iinsurvey.com^
@@ -39591,6 +39595,7 @@
 ||jmgoforth.com^
 ||jmhai.com^
 ||jmimktvupp.com^
+||jmking.cn^
 ||jmkjgv.myscriptcase.com^
 ||jmkxinfekxa.com^
 ||jmnvxpgmcbrk.xyz^
@@ -48644,6 +48649,7 @@
 ||murqyi.com^
 ||musakaplan.com^
 ||musakelep.com^
+||musan.love^
 ||muscle-relaxers.1.p2l.info^
 ||musclegainingtips.com^
 ||musclepots.com^
@@ -51859,6 +51865,7 @@
 ||obmnt.com^
 ||obnarium.com^
 ||obnoxiousstackderide.com^
+||obnpazq.cn^
 ||obovsemonline.ru^
 ||oboxads.com^
 ||obpzuctfozram.com^
@@ -53758,6 +53765,7 @@
 ||p3p.alibaba.com^
 ||p3wm16ssqh.no1webmaster.com^
 ||p3x223.86666608.com^
+||p4f52tll.cn^
 ||p543.inquirer.com^
 ||p593.seattlepi.com^
 ||p6.news-subscribe.com^
@@ -67512,6 +67520,7 @@
 ||stsgroupbd.com^
 ||stsodds.sts.pl^
 ||stt.nimbusweb.me^
+||sttcc.top^
 ||sttvisa.com^
 ||stub.mainspotvideosfree.best^
 ||stubantiquarianjury.com^
@@ -68092,6 +68101,7 @@
 ||svensk-poesi.com^
 ||sverd.net^
 ||svetfilmu.com^
+||svi.online.sberbank.ru^
 ||sviezera-epost.com^
 ||sviklutt.site^
 ||svip.shwxtw.com^
@@ -68247,6 +68257,7 @@
 ||sxzx.live^
 ||sy.jyczy.com^
 ||sy386youths.xyz^
+||syb.hk^
 ||sybsybe.xyz^
 ||sydhbmlmdxzd.com^
 ||sydneygfpink.com^
@@ -72601,6 +72612,7 @@
 ||twiyetehf.com^
 ||twjboytcwutbrt.com^
 ||twjgylzydlhz.com^
+||twjsx.cn^
 ||twlihzvdrdf.com^
 ||twlrvvejszww.com^
 ||twmall.sexyno1.com^
@@ -73583,6 +73595,7 @@
 ||uole.ad.uol.com.br^
 ||uomanhterax.org^
 ||uomo-shopping.com^
+||uongsona.uno^
 ||uoottsfgy.com^
 ||uopmcdnpad.com^
 ||uowbqce.surf^
@@ -73874,8 +73887,8 @@
 ||us.rewardearners.com^
 ||us.s1.yimg.com^
 ||us.scaliseshop.com^
-||us.sfsapi.micloud.xiaomi.net^
-||us.smsapi.micloud.xiaomi.net^
+||us.sfs^
+||us.sms^
 ||us.t1.yimg.com^
 ||us.u1.yimg.com^
 ||us.unidingcom.com^
@@ -77748,6 +77761,7 @@
 ||wleuih.qhigh.com^
 ||wlezfkwtv.com^
 ||wlhbgwzgep.com^
+||wlhcb.cn^
 ||wljj56.com^
 ||wljuxryvolwc.com^
 ||wllxevmlsutfpx.com^
@@ -78096,6 +78110,7 @@
 ||wppdgupelr.com^
 ||wppei.cn^
 ||wppluginspro.com^
+||wpqmiq.cn^
 ||wpqsmse.cn^
 ||wpstage.adelphic.com^
 ||wpswyoyev.com^
@@ -78333,6 +78348,7 @@
 ||wty007.xyz^
 ||wtybgaghcqxoae.com^
 ||wtzgaa.com^
+||wu3wl2g7.cn^
 ||wuaufucps.fgppchg.fgpp.com^
 ||wubdkryfkr.com^
 ||wubsauth.net^
@@ -80205,6 +80221,7 @@
 ||xnuuzwthzaol.com^
 ||xnvsheyceyjv.com^
 ||xnwqhydt.com^
+||xnxonbf.cn^
 ||xoalt.com^
 ||xoassxowovsrk.com^
 ||xobjzmhopjbboqkmc.com^
@@ -80671,6 +80688,7 @@
 ||yahoosaver.net^
 ||yaifxxudxyns.com^
 ||yaizwjvnxctz.com^
+||yajlpetccbodq.com^
 ||yajvdoporjtz.com^
 ||yakimavalleykennelclub.com^
 ||yakuya.cn^
@@ -81745,6 +81763,7 @@
 ||yuyinqs.com^
 ||yuysikankhqvdwdv.xyz^
 ||yuywwcizs.com^
+||yvajogj.cn^
 ||yvbrgzeu.com^
 ||yvdeuwn.angelcities.com^
 ||yvfnb.cn^
@@ -82519,6 +82538,7 @@
 ||zkezpfdfnthb.com^
 ||zkfhdpogauqb.com^
 ||zkfjgzonjvg.com^
+||zkgvsoo.cn^
 ||zkit.club^
 ||zkjh.info^
 ||zkqpoamv.com^
@@ -82914,6 +82934,7 @@
 ||zxeotdjlzvcsa.com^
 ||zxeyqwgwsfv.com^
 ||zxhstudy.online^
+||zxiaochun.site^
 ||zxjmybvewmso.com^
 ||zxkrdvrijsp.com^
 ||zxl1102.000webhostapp.com^
@@ -98157,7 +98178,6 @@
 ||mighbest.site^
 ||mightiger.net^
 ||mignpaybmqkcy.com^
-||migrate.driveapi.micloud.xiaomi.net^
 ||migu.kssws.ks-cdn.com^
 ||mihui.com^
 ||miidi.net^
