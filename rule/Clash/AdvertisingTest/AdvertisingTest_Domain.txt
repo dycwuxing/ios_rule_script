@@ -1,17 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 02:28:12
-# DOMAIN: 45995
+# UPDATED: 2022-07-24 23:35:19
+# DOMAIN: 46001
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89400
+# DOMAIN-SUFFIX: 89419
 # IP-CIDR: 257
-# TOTAL: 135916
+# TOTAL: 135941
 46186911.vtt
-666733.xyz
+666734.xyz
 80055404.vtt
-885741.com
-abjrtwawbfw.com
 absurdapple.com
 adfstat.yandex.ru
 ads.yahoo.com
@@ -24,40 +22,46 @@ applebarq.com
 applequan.com
 applescringe.com
 awsync.yandex.ru
-badubaho.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+cengbalx.fun
+clb.yahoo.co.jp
 crypta.js
 d1stxfv94hrhia.cloudfront
+dfsvhv88.com
 dmg-dd.oss-accelerate.aliyuncs.com
 efficientapplesimulator.com
-facevideosc.com
-fekivnv.cn
+fdsousf.cn
 fpb1.apple886.com
 https-apple.com
 iadsdk.apple.com
 ib.snssdk.com
-jefashivy.com
 jpaasne.e.shifen.com
+lingke05.top
+log.dzen.ru
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-mxowrwb.cn
-ouno.site
+msjj.tech
+otownx.xyz
+oyecntg.cn
 pr.comet.yahoo.com
-qnmvqdl.cn
 rrf.fat1domain1
-rssblgb.cn
 shackapple.com
+speedhq.net
 stats.video.search.yahoo.com
 sub.powerapple.com
+sxieqbu.cn
+taipingyang.hk
+tertqm.cn
 theapple.site
+vongsond.uno
+wqprtyg.cn
 wzjs1.oss-accelerate.aliyuncs.com
 youtube.local
-yuanan.love
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -11837,6 +11841,7 @@ find-abc.com
 find-cheap-hotels.org
 find-my-iphone-me.com
 find-myiphone6.com
+find.api.micloud.xiaomi.net
 findapps.in.net
 findbestsolution.net
 findbigbearproperty.cn
@@ -32578,8 +32583,8 @@ us.r1.yimg.com
 us.rewardearners.com
 us.s1.yimg.com
 us.scaliseshop.com
-us.sfs
-us.sms
+us.sfsapi.micloud.xiaomi.net
+us.smsapi.micloud.xiaomi.net
 us.t1.yimg.com
 us.u1.yimg.com
 us.unidingcom.com
@@ -43240,6 +43245,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -45326,7 +45332,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -45976,6 +45981,7 @@ bats.video.yahoo.com
 bs.yandex.ru
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
+dig.lianjia.com
 ganon.yahoo.com
 geo.yahoo.com
 gotie.tunein.com
@@ -46718,6 +46724,7 @@ opencloud.wostore.cn
 .469716.top
 .4736.in
 .4763e0a8e9.com
+.476bu131.cn
 .47f869bd02.com
 .48331375c351e.com
 .485d0bd3f4.com
@@ -46992,6 +46999,7 @@ opencloud.wostore.cn
 .666728.xyz
 .666729.xyz
 .666732.xyz
+.666733.xyz
 .6667778882021.site
 .666video.asia
 .668kbet.com
@@ -47180,6 +47188,7 @@ opencloud.wostore.cn
 .7znpl4sa.top
 .80055404.vtt
 .8020solutions.net
+.80538w2f.cn
 .81035ddbf4.32c5637f3c.com
 .810f3f9dde63ae3.com
 .812633.com
@@ -47229,6 +47238,7 @@ opencloud.wostore.cn
 .884329.com
 .884352.com
 .8848skins.com
+.885741.com
 .885842.com
 .888888888888.online
 .8889573.com
@@ -47695,6 +47705,7 @@ opencloud.wostore.cn
 .abid.w38store.ru
 .abieaoa.cn
 .abjjsc.cn
+.abjrtwawbfw.com
 .abjwkkabu.com
 .ablatesgascon.cam
 .ableaborah.com
@@ -51926,6 +51937,7 @@ opencloud.wostore.cn
 .ar-x.site
 .ar.5.p2l.info
 .ar.hao123.com
+.arablucidlygrease.com
 .arabnews365.com
 .aragontrack.com
 .aralego.net
@@ -51969,6 +51981,7 @@ opencloud.wostore.cn
 .arfanbajt.xyz
 .argeersarchfoe.com
 .argerm.com
+.argondenial.com
 .arguerepetition.com
 .arguesmoke.com
 .arguments.wang
@@ -52702,6 +52715,7 @@ opencloud.wostore.cn
 .b2o6b39taril.com
 .b2pk.com
 .b2xy4m.xyz
+.b32e499621.com
 .b32lx7qjk0.cn
 .b34rightym.com
 .b370db8cb7.com
@@ -52810,6 +52824,7 @@ opencloud.wostore.cn
 .badslopes.com
 .badspads.com
 .badtopwitch.work
+.badubaho.com
 .badults.se
 .baetrf.com
 .baffledzein.com
@@ -56991,6 +57006,7 @@ opencloud.wostore.cn
 .conduit-services.com
 .conduit.com
 .conduze.com
+.coneenpien.com
 .conexionesymanguerashidrocalidas.com.mx
 .conf.international.baidu.com
 .confdatabase.com
@@ -59140,6 +59156,7 @@ opencloud.wostore.cn
 .dersindical.xyz
 .desadu.com
 .desb.mspaceads.com
+.descendantmystery.com
 .descrepush.com
 .describedarkchair.top
 .descz.ovh
@@ -59775,6 +59792,7 @@ opencloud.wostore.cn
 .dodgiercuvy.cam
 .dodolive.cn
 .doesok.top
+.doffingiceboat.com
 .doflygonan.com
 .dofohuwha.pro
 .dofsg.cn
@@ -60708,6 +60726,7 @@ opencloud.wostore.cn
 .effacerevealing.com
 .effad.ru
 .effateuncrisp.com
+.effectdeuce.com
 .effectfree.net
 .effections.xyz
 .effectivecpmcontent.com
@@ -61754,6 +61773,7 @@ opencloud.wostore.cn
 .facebruek.online
 .facemail.com
 .facesrenaissanceconfirmed.com
+.facevideosc.com
 .fachadasalaire.com
 .facialsword.com
 .facil-iti.com
@@ -62064,6 +62084,7 @@ opencloud.wostore.cn
 .feizailin.com
 .fejezet.com
 .fejla.com
+.fekivnv.cn
 .felicitysupermarketmounted.com
 .felinessynonym.com
 .felliescrackle.com
@@ -66601,6 +66622,7 @@ opencloud.wostore.cn
 .indobanner.com
 .indofad.com
 .indofreeads.com
+.indold.com
 .indoleads.com
 .indooritalian.com
 .indpolice.com
@@ -67452,6 +67474,7 @@ opencloud.wostore.cn
 .jeeshapi.net
 .jeetyetmedia.com
 .jeeyarworld.com
+.jefashivy.com
 .jefctihngyjpogd.xyz
 .jegrenesen.xyz
 .jehlenmen.xyz
@@ -67562,6 +67585,7 @@ opencloud.wostore.cn
 .jigsawhybrid.com
 .jigsawthirsty.com
 .jigsqlivaixr.com
+.jijpbehzw.com
 .jijunlongchengxinxi.cn
 .jikicotho.pro
 .jillsclickcorner.com
@@ -67591,6 +67615,7 @@ opencloud.wostore.cn
 .jinrui.online
 .jinshengkeji.vip
 .jinshenglong.cn
+.jinssimon.com
 .jintan.fun
 .jintengli.mobi
 .jinxexaminesketch.com
@@ -68282,6 +68307,7 @@ opencloud.wostore.cn
 .kelt-195b.com
 .kemperare.club
 .kenailush.com
+.kendosliny.com
 .kenduktur.com
 .kengi.top
 .kenizg.com
@@ -68748,6 +68774,7 @@ opencloud.wostore.cn
 .ks.5.p2l.info
 .ksadrewrty.com
 .ksaggspp.xyz
+.ksdlzcmvmj.com
 .ksdqhiaythajdv.com
 .ksdr.xyz
 .ksgsjeix.xyz
@@ -71163,6 +71190,7 @@ opencloud.wostore.cn
 .mdpszsqzs.com
 .mdqgwa.cn
 .mds.nipa.co.th
+.mdszz.com
 .mdunker.gmxhome.de
 .mdvkn.com
 .mdwphtohwt.com
@@ -71968,6 +71996,7 @@ opencloud.wostore.cn
 .mn.5.p2l.info
 .mn.mn.co.cu
 .mn1nm.com
+.mnbvbrow.xyz
 .mnbvjhg.com
 .mncvz.top
 .mnemicguaza.cam
@@ -72610,6 +72639,7 @@ opencloud.wostore.cn
 .mxeinvwitjitk.com
 .mxhbkj.cn
 .mxmcdn.net
+.mxowrwb.cn
 .mxptint.net
 .mxradon.com
 .mxshuh.com
@@ -73015,6 +73045,7 @@ opencloud.wostore.cn
 .ncgywud.cn
 .nckwgmbfdwrj.xyz
 .ncncu.xyz
+.ncoeqz.today
 .ncom.dk
 .ncore.ink
 .ncorecc.me
@@ -73745,6 +73776,7 @@ opencloud.wostore.cn
 .nozawashoten.com
 .npario-inc.net
 .npcad.com
+.npcwfrohnshriw.com
 .npecialukiz.com
 .npecialukize.lol
 .npftmqv.cn
@@ -74936,6 +74968,7 @@ opencloud.wostore.cn
 .oulukdltobepa.com
 .oumbikcdwmjxqt.xyz
 .oundaymi.co
+.ouno.site
 .ouo3ophlpm.ru
 .ouorhxolxdqqf.com
 .oupaumul.net
@@ -75502,6 +75535,7 @@ opencloud.wostore.cn
 .paurif.com
 .pauzajoo.net
 .paverscortaro.com
+.pavilionslendercudgel.com
 .pawafrmhatg.com
 .pawheatyous.com
 .pawnprime.com
@@ -75605,6 +75639,7 @@ opencloud.wostore.cn
 .peacebanana.com
 .peacefullymenitch.com
 .peachsquat.com
+.peacockdienook.com
 .peakclick.com
 .peakcounter.dk
 .pearsguess.com
@@ -77147,6 +77182,7 @@ opencloud.wostore.cn
 .protection.topolice.com
 .protection.vapolice.com
 .protection.vipolice.com
+.protectorincorporatehush.com
 .protectsubrev.com
 .proteographiummarcellus.com
 .protestsedatevisited.com
@@ -77880,6 +77916,7 @@ opencloud.wostore.cn
 .qnajplxtvz-a.akamaihd.net
 .qncphvc.cn
 .qnipkk.xyz
+.qnmvqdl.cn
 .qnqtfaydb.com
 .qnsr.com
 .qntihf.com
@@ -79528,6 +79565,7 @@ opencloud.wostore.cn
 .rsnvboidrvqjso.com
 .rsrwmpsiii.com
 .rss.dtiserv.com
+.rssblgb.cn
 .rst.pornyhd.com
 .rst2.y3600.cn
 .rstbtmd.com
@@ -79622,6 +79660,7 @@ opencloud.wostore.cn
 .rucrop.com
 .rudderlabs.com
 .ruegenfleisch.de
+.ruelliaforgift.com
 .rufadses.net
 .rufflycouncil.com
 .rug4ma.com
@@ -80205,6 +80244,7 @@ opencloud.wostore.cn
 .scrooge.wnbc.com
 .scrubheiress.com
 .scrubswim.com
+.scrumsrokey.com
 .scrupulouscolonial.com
 .scrupulousgroundmonths.com
 .scrymeddle.com
@@ -80456,6 +80496,7 @@ opencloud.wostore.cn
 .sellpoints.com
 .selphiu.com
 .selsin.net
+.selvaexposit.com
 .selwrite.com
 .semantic-finder.com
 .semanticrep.com
@@ -80545,6 +80586,7 @@ opencloud.wostore.cn
 .sepyra.com
 .seraialumins.com
 .serbapromo.com
+.serbianstonish.com
 .serch26.biz
 .serconius.com
 .serconmp.com
@@ -81070,6 +81112,7 @@ opencloud.wostore.cn
 .simility.com
 .similt.com
 .simonsignal.com
+.simoolkankrej.com
 .simpan.online
 .simpasa.cn
 .simpio.com
@@ -81760,6 +81803,7 @@ opencloud.wostore.cn
 .sortsummer.com
 .sortyrails.com
 .soshoord.com
+.soshow.hk
 .sosigninggrudge.com
 .sosinyo.xyz
 .soska.us
@@ -82725,6 +82769,7 @@ opencloud.wostore.cn
 .stsodds.sts.pl
 .stt.nimbusweb.me
 .sttcc.top
+.sttrr.top
 .stub.mainspotvideosfree.best
 .stubantiquarianjury.com
 .stucystymy.com
@@ -84143,6 +84188,7 @@ opencloud.wostore.cn
 .thuqqyggwc.com
 .thurag.com
 .thurnflfant.com
+.thurniafetal.com
 .thwartcrazyposition.com
 .thygrepuwo.pro
 .thyhoughs.com
@@ -84645,6 +84691,7 @@ opencloud.wostore.cn
 .torimochi-ad.net
 .torjackan.info
 .toro-tags.com
+.toroidscentry.com
 .toroptotrab.ru
 .tororango.com
 .torpsol.com
@@ -86757,7 +86804,9 @@ opencloud.wostore.cn
 .verypopularwebsite.com
 .vespymedia.com
 .vessoupy.com
+.vetcheslegumen.com
 .vetdeberg.com
+.vethojoa.net
 .vetvljbx.com
 .vevatom.com
 .vexevutus.com
@@ -87550,6 +87599,7 @@ opencloud.wostore.cn
 .wagedsoutane.com
 .wagerjoint.com
 .wagershare.com
+.wagersinging.com
 .waggerbianco.com
 .waggonerchildrensurly.com
 .wahess.com
@@ -87686,6 +87736,7 @@ opencloud.wostore.cn
 .waveclks.com
 .wavermigraineuncle.com
 .wavysumatone.cam
+.wawlingcuba.com
 .waxtamnit.com
 .waycash.net
 .wayexiaofei.club
@@ -88508,6 +88559,7 @@ opencloud.wostore.cn
 .wonderlandads.com
 .wonderpush.com
 .wondoads.de
+.wongsonc.uno
 .woniu1314520.vip
 .wonoddgiris.com
 .wonsegax.net
@@ -88699,6 +88751,7 @@ opencloud.wostore.cn
 .wtag.estlier.net
 .wtastats.com
 .wtastats.ro
+.wtd57s7j.cn
 .wtdome.com
 .wteicogfeyhjk.com
 .wtg-ads.com
@@ -90539,6 +90592,7 @@ opencloud.wostore.cn
 .yu0123456.com
 .yu987.com
 .yuailairuci.com
+.yuanan.love
 .yuandongoffice.com
 .yuangbkvxbdryck.com
 .yuanlianghui.com
@@ -98877,6 +98931,7 @@ opencloud.wostore.cn
 .migc.g.mi.com
 .migcreport.g.mi.com
 .mightiger.net
+.migrate.driveapi.micloud.xiaomi.net
 .migu.kssws.ks-cdn.com
 .mihui.com
 .miidi.net
@@ -104165,7 +104220,6 @@ opencloud.wostore.cn
 .467.red
 .4702fb341ddf276d.com
 .473863a8ef28.com
-.476bu131.cn
 .47api.cn
 .47b63cbfb34a0.com
 .47r.cn
@@ -104427,7 +104481,6 @@ opencloud.wostore.cn
 .800d24d61daea3c.com
 .8020home.com.cn
 .805.red
-.80538w2f.cn
 .806360b129d126.com
 .8080i.com
 .8092686a39ac5.com
@@ -106177,7 +106230,6 @@ opencloud.wostore.cn
 .aquarepush.com
 .aquete.com
 .arableredressalacrity.com
-.arablucidlygrease.com
 .aranlucas.pro
 .arbingfifted.club
 .arcadebe.com
@@ -106193,7 +106245,6 @@ opencloud.wostore.cn
 .arentpremi.space
 .arfeservation.info
 .argetreceden.club
-.argondenial.com
 .argumentmanufacture.com
 .arisoning.club
 .aristianewr.club
@@ -106509,7 +106560,6 @@ opencloud.wostore.cn
 .b2bmarketingsb2.swisscom.com
 .b2e92952aa6.com
 .b3.jandan.net
-.b32e499621.com
 .b3ff2cfeb6f49e.com
 .b44a98d1901e5b7.com
 .b4f.site
@@ -108036,7 +108086,6 @@ opencloud.wostore.cn
 .conditurer.club
 .condolencesinflamepoint.com
 .condor.stadttunnel-feldkirch.at
-.coneenpien.com
 .conf.hpplay.cn
 .conf.lsosad.com
 .conf.optum.com
@@ -108892,7 +108941,6 @@ opencloud.wostore.cn
 .derbodilehe.top
 .derliesnot.club
 .dersmembrac.fun
-.descendantmystery.com
 .desembobelinons.site
 .deserswhene.club
 .deservecustomsadministrator.com
@@ -109203,7 +109251,6 @@ opencloud.wostore.cn
 .doclen.hypedc.com
 .dodgekeelpops.com
 .dodi.86zhnc.cn
-.doffingiceboat.com
 .dofkfhv.cn
 .dog.justsketch.me
 .dog.orbit.love
@@ -109638,7 +109685,6 @@ opencloud.wostore.cn
 .efashingsoccu.club
 .efbenj.adorebeauty.com.au
 .efchla.stylefile.fr
-.effectdeuce.com
 .effectwringoverreact.com
 .efficiency.visma.fi
 .efficiency.visma.lv
@@ -111442,6 +111488,7 @@ opencloud.wostore.cn
 .hfolmr.office-com.jp
 .hfqclrllll.com
 .hfqxjx.cn
+.hfwzbp.cn
 .hg5858.net
 .hg98089.com
 .hgglguotkgfo.com
@@ -112075,7 +112122,6 @@ opencloud.wostore.cn
 .indictmentchurchill.com
 .indigital.lt
 .indlzxgptf.com
-.indold.com
 .inevitablemittenprefer.com
 .inewcontentdelivery.info
 .inexhaustibleendlesslyregular.com
@@ -112602,7 +112648,6 @@ opencloud.wostore.cn
 .jinrichaoyang.com
 .jinshui2018.chalook.net
 .jinshzx.com
-.jinssimon.com
 .jinzhao99.com
 .jipinapi.panqis.cn
 .jira.xsuffer.com
@@ -112891,7 +112936,6 @@ opencloud.wostore.cn
 .kekw.givetip.to
 .kelun13.top
 .kendingfa.com
-.kendosliny.com
 .kenomal.com
 .keoofp.getthat.com
 .keoofp.gulfnews.com
@@ -113054,7 +113098,6 @@ opencloud.wostore.cn
 .krs1v2sl.com
 .krwzck.sharelytics.co
 .ks42zt.spec.fm
-.ksdlzcmvmj.com
 .ksfubacmhdcc.com
 .ksjrehefupsrkz.com
 .ksxcxb.cn
@@ -115215,7 +115258,6 @@ opencloud.wostore.cn
 .mmulsx.comet.it
 .mmwlwm.autoscout24.pl
 .mn586.com
-.mnbvbrow.xyz
 .mnbyto.goo-net.com
 .mncvjhg.com
 .mnrywnesslkmdy.com
@@ -115596,7 +115638,6 @@ opencloud.wostore.cn
 .nchap.com
 .ncilityinflati.club
 .nckjysyk.com
-.ncoeqz.today
 .ncoqsj.dr.com.tr
 .ncorports.top
 .ncountsnash.info
@@ -116671,7 +116712,6 @@ opencloud.wostore.cn
 .patsyfoxswab.com
 .paveherniaell.com
 .pavementinhumanabstain.com
-.pavilionslendercudgel.com
 .pawnorderpampas.work
 .pay2clik.cf
 .paydashboardinfo.com
@@ -116705,7 +116745,6 @@ opencloud.wostore.cn
 .pe8.com
 .peacepowder.com
 .peacock.davidlevai.com
-.peacockdienook.com
 .peak2poem.com
 .pealdudley.com
 .peanuttolerate.com
@@ -117276,7 +117315,6 @@ opencloud.wostore.cn
 .protecsee.site
 .protect-x.com
 .protectdedication.com
-.protectorincorporatehush.com
 .protizer.ru
 .protrudediscussion.com
 .proveexclusionaye.com
@@ -118206,7 +118244,6 @@ opencloud.wostore.cn
 .rubiconproject.com.edgekey.net
 .rubiconproject.net.akadns.net
 .ruefulspanishresolute.com
-.ruelliaforgift.com
 .rugncn.ifeng.com
 .ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 .ruizhimu.cn
@@ -118683,7 +118720,6 @@ opencloud.wostore.cn
 .scripts.mailfire.io
 .scrolltotop.com
 .scrookie.nl
-.scrumsrokey.com
 .scrutchother.club
 .scs.arcteryx.com
 .scs.lacapitale.com
@@ -118894,7 +118930,6 @@ opencloud.wostore.cn
 .selectserialcage.com
 .selfevidentpotsfertility.com
 .selloweb.com
-.selvaexposit.com
 .selvi.viessmann.com.tr
 .sematext.com
 .semblanceterrifiednoon.com
@@ -118932,7 +118967,6 @@ opencloud.wostore.cn
 .sequently.club
 .sequestrassent.xyz
 .seraton.online
-.serbianstonish.com
 .seriendly.club
 .seriorladded.info
 .seriouslylargestnewsletter.com
@@ -119153,7 +119187,6 @@ opencloud.wostore.cn
 .silwm.com
 .simengadx.com
 .similedy.xyz
-.simoolkankrej.com
 .simpleco.in
 .simpleprogr.club
 .simplesharebuttons.com
@@ -120098,7 +120131,6 @@ opencloud.wostore.cn
 .sophomoremostlyplain.com
 .sor-sdk.follow-apps.com
 .sorxyx.vi.nl
-.soshow.hk
 .soua.com
 .souacode.com
 .soueki.com
@@ -121490,7 +121522,6 @@ opencloud.wostore.cn
 .thugtowardhindsight.com
 .thumbnail-galleries.net
 .thuniveryra.club
-.thurniafetal.com
 .thursdayfeeemployee.com
 .thwhilecom.club
 .thyoaflucid.com
@@ -121696,7 +121727,6 @@ opencloud.wostore.cn
 .topvcbank.com
 .torbudyum.com
 .torconpro.com
-.toroidscentry.com
 .torrent.pw
 .torsperience.club
 .tortdiscreets.club
@@ -122655,8 +122685,6 @@ opencloud.wostore.cn
 .verticalaffiliation.com
 .vertoz.com
 .veryoneresp.club
-.vetcheslegumen.com
-.vethojoa.net
 .vetodelaycourageous.com
 .vf5c.com
 .vffvtxcykog.com
@@ -122915,7 +122943,6 @@ opencloud.wostore.cn
 .wabsgz.studocu.com
 .waddlegrammind.com
 .wagerestrictedrebuild.com
-.wagersinging.com
 .waguwagu.xyz
 .wahwahnetworks.com
 .waistcoatfast.com
@@ -122985,7 +123012,6 @@ opencloud.wostore.cn
 .wats.gogoinflight.com
 .wauk1care.com
 .wavecurersquire.cam
-.wawlingcuba.com
 .waypresentsstud.com
 .wbcygu.wardow.com
 .wbfgtw.martinex.fi
@@ -123313,7 +123339,6 @@ opencloud.wostore.cn
 .womentheli.club
 .wonclick.com
 .wonderfuladults.com
-.wongsonc.uno
 .woobids.com
 .woobox.com
 .woodpecker.eatfresh.tech
@@ -123368,7 +123393,6 @@ opencloud.wostore.cn
 .wsuqzu.armani.com
 .wt.generalihealthsolutions.de
 .wtbtop.cn
-.wtd57s7j.cn
 .wtdpkq.tausendkind.de
 .wtfdontblock.theporndudes.xyz
 .wtorain.red
@@ -123578,6 +123602,7 @@ opencloud.wostore.cn
 .xedo.me
 .xehcnpvqdicvx.com
 .xejevl.newchic.com
+.xektyy.cn
 .xenfrastucter.com
 .xeoezl.major7.net
 .xesigyno.pro

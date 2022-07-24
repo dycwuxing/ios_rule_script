@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 02:27:16
+# UPDATED: 2022-07-24 23:34:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 51477
+# DOMAIN: 51478
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 70386
+# DOMAIN-SUFFIX: 70435
 # IP-CIDR: 256
-# URL-REGEX: 303
-# TOTAL: 122507
+# URL-REGEX: 301
+# TOTAL: 122555
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adashx
@@ -371,8 +371,6 @@ URL-REGEX,^https?:\/\/.+?\.atm\.youku\.com
 URL-REGEX,^https?:\/\/.+?\.iydsj\.com\/api\/.+?\/ad
 URL-REGEX,^https?:\/\/.+?\.mp4\?ccode=0902
 URL-REGEX,^https?:\/\/.+?\.mp4\?sid=
-URL-REGEX,^https?:\/\/.+?\.pstatp\.com\/img\/ad
-URL-REGEX,^https?:\/\/.+?\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/
 URL-REGEX,^https?:\/\/.+?\/(mixer|track2)\?
 URL-REGEX,^https?:\/\/.+?\/allOne\.php\?ad_name
 URL-REGEX,^https?:\/\/.+?\/cdn-adn\/

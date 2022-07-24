@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 02:28:09
+# UPDATED: 2022-07-24 23:35:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 45995
+# DOMAIN: 46001
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89400
+# DOMAIN-SUFFIX: 89419
 # IP-CIDR: 257
-# URL-REGEX: 303
-# TOTAL: 136220
+# URL-REGEX: 301
+# TOTAL: 136243
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -851,7 +851,7 @@
 65e750617ae8f0421.com
 65h79.cn
 66600619.com
-666733.xyz
+666734.xyz
 669-diet.com-swd.net
 671-fitness.com-swd.net
 671.stats.misstrends.com
@@ -1013,7 +1013,6 @@
 87ac592346b5a.com
 884545gf.ahdaaf.org
 88461059da0a12ea.com
-885741.com
 888.iwx88.com
 888888kk.com
 888medianetwork.com
@@ -1303,7 +1302,6 @@ abidetechnical.com
 abiggerpicture.org
 abilitycorpsolutions.com
 abisorteo.webcindario.com
-abjrtwawbfw.com
 abjusouft.com
 ablabels.com
 ablefull.com
@@ -5003,7 +5001,6 @@ bacula1-1.sfa37.smi2.net
 badadownload.com
 badekhanpur.com
 badoeudn.com
-badubaho.com
 bae093b2b20fde784.com
 baerxupsjjegb.com
 bafwpcisfhfvma.com
@@ -7647,6 +7644,7 @@ cellulitecreamsite.com
 celular-para-empresa.com
 cemclass78.com
 cemderser.com
+cengbalx.fun
 cengizsozubek.com
 cennoworld.com
 center-free-borne.com
@@ -8397,6 +8395,7 @@ classicspeedway.com
 classtaxis.com
 claudioespinola.com
 clayheart.com
+clb.yahoo.co.jp
 clckmedia.club
 clcollegeofpharmacy.com
 clean-cracks.com
@@ -10704,6 +10703,7 @@ dfrs12kz9qye2.cloudfront.net
 dfrtcvlab.xyz
 dfsdfsdf.rumahweb.org
 dfskgmrepts.com
+dfsvhv88.com
 dfujqyjifvoe.com
 dfxvfkutloxnyl.com
 dfyudpyceqoy.com
@@ -10794,6 +10794,7 @@ dieutribenhkhop.com
 dieuveny.com
 differentdesk.com
 difficultnotice.net
+dig.lianjia.com
 digantshah.com
 digdeepdigital.com.au
 digiaquascr.com
@@ -13634,7 +13635,6 @@ faceoffhacker.com
 faceookbook.com
 facerooting.net
 facetuesday.net
-facevideosc.com
 facexploit.com
 fackbkoo.000webhostapp.com
 facpanel.com
@@ -13932,6 +13932,7 @@ fdrqokusnwpq.com
 fdrqqpeengzj.com
 fdsa22n.87dianying.cn
 fdsfds.cecilialagoons.com
+fdsousf.cn
 fdsz.n27lw.cn
 fdvilavipz.com
 fdvmskmentjob.com
@@ -13979,7 +13980,6 @@ fejbkpidkkwts.com
 fejki.info
 fejs-colors.blogspot.com
 fejwbcvvzclz.com
-fekivnv.cn
 fekrhegypt.com
 felixooriums.net
 feltrecoilshow.com
@@ -14393,6 +14393,7 @@ find-abc.com
 find-cheap-hotels.org
 find-my-iphone-me.com
 find-myiphone6.com
+find.api.micloud.xiaomi.net
 findapps.in.net
 findbestsolution.net
 findbigbearproperty.cn
@@ -21004,7 +21005,6 @@ jeegopte.com
 jeeh7eet.com
 jeekeglu.net
 jeeumttalzwt.com
-jefashivy.com
 jeff-trexler.com
 jeff.timeclever.com
 jeffreysamuelsshop.com
@@ -23430,6 +23430,7 @@ line.beike188.com
 linenghb.com
 linformanceder.info
 lingjunedu.com
+lingke05.top
 lingrethertantin.pro
 link-sss.com
 link.huffingtonpost.com
@@ -23740,6 +23741,7 @@ log.aebn.net
 log.appchina.com
 log.bling.samuraiworks.com
 log.byteoversea.com.edgekey.net
+log.dzen.ru
 log.fotoable.com
 log.getdropbox.com
 log.hankooki.com
@@ -26436,6 +26438,7 @@ msiegurhgfyl.com
 msigpurubzkm.com
 msihacks.com
 msisvvxmnpm.com
+msjj.tech
 mslivegirl.com
 msmaijsxlo.com
 msnads-wm9.fplive.net
@@ -26649,7 +26652,6 @@ mx1.smi2.net
 mxadtjluuv.com
 mxbpointcodes.com
 mxctsflkxs.com
-mxowrwb.cn
 mxphrvkcgvcpl.com
 mxpzslze.com
 mxtcafifuufp.com
@@ -29302,6 +29304,7 @@ otmonog.info
 otmyoesv.com
 otooleautoglass.com
 otorcycletrai.com
+otownx.xyz
 otoxkqlivsqr.com
 otpckmnnfm.com
 otpyldlrygga.com
@@ -29330,7 +29333,6 @@ oukrocky.com
 ouloutso.net
 oulxdvvpmfcd.com
 ounicred.com
-ouno.site
 ounyrilukncbj.com
 ouo.io
 ouptoobe.net
@@ -29450,6 +29452,7 @@ oxxieslife.com
 oxzffweyw.com
 oyaqzikgjw.com
 oybahnktadxjju.com
+oyecntg.cn
 oyfncnedrymc.com
 oyfsdpmhncobvj.com
 oyhnizdr4bxkz0.com
@@ -32201,7 +32204,6 @@ qnfpskgtzkw.com
 qnhwhedcrzeodd.com
 qnjdtefk.com
 qnkiueuflzdold.com
-qnmvqdl.cn
 qnnawbvdyuql.com
 qnpolbme.com
 qnprzxurkv.com
@@ -33744,7 +33746,6 @@ rsnuhrxz.com
 rsqcrylqremctr.com
 rss.oneindia.com
 rss1.oneindia.com
-rssblgb.cn
 rssgflbj.com
 rstdehuopwf.com
 rstjainimptgn.com
@@ -36198,6 +36199,7 @@ speed.trkmobile.xyz
 speedbar.myway.com
 speedchiller.com
 speedcounts.com
+speedhq.net
 speediest.net
 speedlinkdown.com
 speedmovies.net
@@ -37356,6 +37358,7 @@ sxe-shield.com
 sxedqvvaxxj.com
 sxgmppxfts.com
 sxhpwsgdyhw.com
+sxieqbu.cn
 sxiyvcqnp.com
 sxjhskptisd.com
 sxlsk.saqibsiddiqui.com
@@ -37602,6 +37605,7 @@ taihehao.net
 tailorcave.com
 tailpdulprkp.com
 tainguyensaefood.com
+taipingyang.hk
 taixingindustry.cn
 taiyangnengchukou.cn
 take.cloudbank.xyz
@@ -38000,6 +38004,7 @@ terresdestel.com
 terrevita.com
 terribleturkey.com
 tersereah-kamu.rumahweb.org
+tertqm.cn
 terviyandefolnedse.com
 teschenite.com
 tesco.100giveaways.com
@@ -40415,8 +40420,8 @@ us.r1.yimg.com
 us.rewardearners.com
 us.s1.yimg.com
 us.scaliseshop.com
-us.sfs
-us.sms
+us.sfsapi.micloud.xiaomi.net
+us.smsapi.micloud.xiaomi.net
 us.t1.yimg.com
 us.u1.yimg.com
 us.unidingcom.com
@@ -41495,6 +41500,7 @@ volimole.com
 volleqgoafcb.com
 volpefurniture.com
 volzilainxs.com
+vongsond.uno
 vonlotushausdogs.com
 vonvthodzhxz.com
 voolamp.com
@@ -42850,6 +42856,7 @@ wqnxcthitqpf.com
 wqobjrevtkqym.com
 wqocynupmbad.com
 wqpcxujvkvhr.com
+wqprtyg.cn
 wqpyqirgzfqsc.com
 wqrwopgkkohk.com
 wqtdtstdxg.com
@@ -45085,7 +45092,6 @@ ytwtqabrkfmu.com
 ytxuslppbj.com
 yu21uy.com
 yuanaayutyd.com
-yuanan.love
 yuanhehuanbao.com
 yuankouvip.com
 yuazwfzvdzfc.com
@@ -48237,6 +48243,7 @@ zzzrtrcm2.com
 .666728.xyz
 .666729.xyz
 .666732.xyz
+.666733.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -48787,6 +48794,7 @@ zzzrtrcm2.com
 .884329.com
 .884352.com
 .8848skins.com
+.885741.com
 .885842.com
 .8866786.com
 .888.izhufu.net
@@ -50323,6 +50331,7 @@ zzzrtrcm2.com
 .abieaoa.cn
 .abjectisassiez.xyz
 .abjjsc.cn
+.abjrtwawbfw.com
 .abjtuq.exoticca.com
 .abjwkkabu.com
 .abkdae.namshi.com
@@ -58735,6 +58744,7 @@ zzzrtrcm2.com
 .badspads.com
 .badstairs.com
 .badtopwitch.work
+.badubaho.com
 .badults.se
 .badwolf.open-election-compass.com
 .baetrf.com
@@ -75498,6 +75508,7 @@ zzzrtrcm2.com
 .facesrenaissanceconfirmed.com
 .facetexamgrabbed.com
 .facetz.net
+.facevideosc.com
 .fachadasalaire.com
 .facialsword.com
 .facil-iti.com
@@ -76079,6 +76090,7 @@ zzzrtrcm2.com
 .feizailin.com
 .fejezet.com
 .fejla.com
+.fekivnv.cn
 .felicitysupermarketmounted.com
 .felidae.mysuperportal.com
 .felinessynonym.com
@@ -81669,6 +81681,7 @@ zzzrtrcm2.com
 .hfrytno.cn
 .hfsteel.net
 .hfwmgail.com
+.hfwzbp.cn
 .hfxs01il.com
 .hfyxdl.com
 .hfzq1600.com
@@ -86303,6 +86316,7 @@ zzzrtrcm2.com
 .jeeshapi.net
 .jeetyetmedia.com
 .jeeyarworld.com
+.jefashivy.com
 .jefctihngyjpogd.xyz
 .jeglnk.mydeal.com.au
 .jegrenesen.xyz
@@ -86542,6 +86556,7 @@ zzzrtrcm2.com
 .jihehuaban.com.cn
 .jiirz.com
 .jijcyb.competitivecyclist.com
+.jijpbehzw.com
 .jijunlongchengxinxi.cn
 .jikelian.xyz
 .jikicotho.pro
@@ -93992,6 +94007,7 @@ zzzrtrcm2.com
 .mds.xmgsjd.com
 .mdsfzh.cn
 .mdsngpush.finanzen.net
+.mdszz.com
 .mdt.qq.com
 .mdugiz.jdsports.de
 .mdunker.gmxhome.de
@@ -95937,6 +95953,7 @@ zzzrtrcm2.com
 .mignoops.net
 .migongetlucky.com
 .migrantspiteconnecting.com
+.migrate.driveapi.micloud.xiaomi.net
 .migrati.xyz
 .migu.kssws.ks-cdn.com
 .mihui.com
@@ -97608,6 +97625,7 @@ zzzrtrcm2.com
 .mxmcdn.net
 .mxmrt.com
 .mxmwqo.biosante.com.br
+.mxowrwb.cn
 .mxpdsu.bhv.fr
 .mxpnl.com
 .mxpopad.com
@@ -99567,6 +99585,7 @@ zzzrtrcm2.com
 .npario-inc.net
 .npcad.com
 .npcdn1.now.sh
+.npcwfrohnshriw.com
 .npdaqy6x1j.me
 .npecialukiz.com
 .npecialukize.lol
@@ -101676,6 +101695,7 @@ zzzrtrcm2.com
 .ouncialliberte.site
 .oundaymi.co
 .ounion.openadx.com
+.ouno.site
 .ountapaveralle.info
 .ountringch.club
 .ountryvener.club
@@ -107085,6 +107105,7 @@ zzzrtrcm2.com
 .qneit.com
 .qngqlrxscxlvh.com
 .qnipkk.xyz
+.qnmvqdl.cn
 .qnqdpy.edreams.net
 .qnqtfaydb.com
 .qnsr.com
@@ -109790,6 +109811,7 @@ zzzrtrcm2.com
 .rss-loader.com
 .rss.dtiserv.com
 .rss.tmgrup.com.tr
+.rssblgb.cn
 .rsspump.com
 .rsszgj.etude.com
 .rst.pornyhd.com
@@ -118953,6 +118975,7 @@ zzzrtrcm2.com
 .stsywl.com
 .stt.nimbusweb.me
 .sttcc.top
+.sttrr.top
 .stts.sgab-srfp.ch
 .stub.mainspotvideosfree.best
 .stubantiquarianjury.com
@@ -131772,6 +131795,7 @@ zzzrtrcm2.com
 .xehcnpvqdicvx.com
 .xeihy.com
 .xejevl.newchic.com
+.xektyy.cn
 .xekychacu.com
 .xel-xel-fie.com
 .xelllwrite.com
@@ -133869,6 +133893,7 @@ zzzrtrcm2.com
 .yu520o.top
 .yu987.com
 .yuailairuci.com
+.yuanan.love
 .yuanchengxiezuo.com
 .yuandongoffice.com
 .yuangbkvxbdryck.com
