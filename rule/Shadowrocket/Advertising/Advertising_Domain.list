@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 23:34:26
+# UPDATED: 2022-07-25 10:01:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 51478
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 70435
+# DOMAIN-SUFFIX: 70460
 # IP-CIDR: 256
 # URL-REGEX: 301
-# TOTAL: 122554
+# TOTAL: 122579
 00-gov.cn
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -53174,6 +53174,7 @@ zzzrtrcm2.com
 .666729.xyz
 .666732.xyz
 .666733.xyz
+.666734.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -62665,6 +62666,7 @@ zzzrtrcm2.com
 .bcvideod.com
 .bcxamyjtnzuf.com
 .bd-js.baixing.net
+.bd-js1.2345.com
 .bd-s.baixing.net
 .bd.ahsrst.cn
 .bd.beimap.com
@@ -66088,6 +66090,7 @@ zzzrtrcm2.com
 .cementencourage.com
 .cemukentha.xyz
 .cenceevent.club
+.cengbalx.fun
 .cennter.com
 .census.misterspex.at
 .census.misterspex.ch
@@ -66147,6 +66150,7 @@ zzzrtrcm2.com
 .certifiedwinners.info
 .certifiedwinners.today
 .cervell.io
+.ceshi10.ink
 .ceshi2.ink
 .ceshi5.ink
 .cesikelylibrarie.site
@@ -66805,6 +66809,7 @@ zzzrtrcm2.com
 .clayierglaiks.com
 .claz.com.cn
 .clb.bazzacco.net
+.clb.yahoo.co.jp
 .clbanners16.com
 .clbjmp.com
 .clc.stackoverflow.com
@@ -71293,6 +71298,7 @@ zzzrtrcm2.com
 .dfnetwork.link
 .dfokydq.cn
 .dfseafood.com
+.dfsvhv88.com
 .dftvhvapqxs.xyz
 .dfvdkx.gismeteo.ua
 .dfw.bakerbroto.emergeinteractive.com
@@ -75746,6 +75752,7 @@ zzzrtrcm2.com
 .fdrhbw.com
 .fds.api.moji.com
 .fdsgv.xyz
+.fdsousf.cn
 .fdsur.com
 .fdt.kraken.com
 .fdvewptkqfnrok.com
@@ -78333,6 +78340,7 @@ zzzrtrcm2.com
 .gladiol9us10.com
 .glaimtug.com
 .glainsee.com
+.glaivoun.net
 .glaiwhee.net
 .glaixich.net
 .glaksads.net
@@ -80320,6 +80328,7 @@ zzzrtrcm2.com
 .hfrytno.cn
 .hfsteel.net
 .hfwmgail.com
+.hfwzbp.cn
 .hfxs01il.com
 .hfyxdl.com
 .hfzq1600.com
@@ -87041,6 +87050,7 @@ zzzrtrcm2.com
 .linghangshouji.com
 .lingintirejohny.club
 .lingke03.top
+.lingke05.top
 .linglingccc.xyz
 .lingospot.com
 .lingqinga.cn
@@ -87717,6 +87727,7 @@ zzzrtrcm2.com
 .log.down61.com
 .log.droid4x.cn
 .log.dubaotiente.com
+.log.dzen.ru
 .log.easy39.com
 .log.ecgh.dk
 .log.enuri.com
@@ -92099,6 +92110,7 @@ zzzrtrcm2.com
 .mshues.com
 .msioay.backcountry.com
 .msite.baidu.com
+.msjj.tech
 .msjxxz.com
 .mskjf.com
 .mslimitages.site
@@ -95481,6 +95493,7 @@ zzzrtrcm2.com
 .otnolatrnup.com
 .otogkg.com
 .otoshiana.com
+.otownx.xyz
 .otpercpiheno.blogspot.com
 .otpercpiheno.hu
 .otqjtkbkftehq.com
@@ -95745,6 +95758,7 @@ zzzrtrcm2.com
 .oxyphilsebkha.com
 .oxzwsxs.cn
 .oycslia.xyz
+.oyecntg.cn
 .oygohusvggaurod.xyz
 .oyi9f1kbaj.com
 .oyknmi.cn
@@ -97183,6 +97197,7 @@ zzzrtrcm2.com
 .pitatagata.com
 .pitbull-marketing.com
 .pitchedfurs.com
+.pitchedsprout.com
 .pitena.top
 .piti.bplaced.net
 .piticlik.com
@@ -104362,6 +104377,7 @@ zzzrtrcm2.com
 .shxqeps.com
 .shyama-jay.com
 .shyanche.net
+.shygkl.com
 .shyheglasy.com
 .shyhuetub.site
 .shypqc.com
@@ -106721,6 +106737,7 @@ zzzrtrcm2.com
 .speedcount.de
 .speedcounter.net
 .speedcurve.com
+.speedhq.net
 .speedomizer.com
 .speedsagesleepy.com
 .speedservicenow.com
@@ -108782,6 +108799,7 @@ zzzrtrcm2.com
 .suinglygaggler.com
 .suissemicron.com
 .suitarserviku.site
+.suitcasesimbue.com
 .suite6ixty6ix.com
 .suitesbahrag.icu
 .suitesmart.com
@@ -109148,6 +109166,7 @@ zzzrtrcm2.com
 .sxehny.cn
 .sxgbwlkjkj.xyz
 .sxhjty.cn
+.sxieqbu.cn
 .sxjcnm.com
 .sxjeyg.21vek.by
 .sxjfhh.detroitnews.com
@@ -109737,6 +109756,7 @@ zzzrtrcm2.com
 .taiok88.app
 .taioncgaiynzt.com
 .taiphaib.net
+.taipingyang.hk
 .taiquandao1.cn
 .taishijian.com
 .taishu.shop
@@ -110357,6 +110377,7 @@ zzzrtrcm2.com
 .territoria-remonta.ru
 .terroppop.com
 .tertmateruse.ru
+.tertqm.cn
 .terttalkinhitin.pro
 .terytelevel.xyz
 .tesfw.com
@@ -113138,6 +113159,7 @@ zzzrtrcm2.com
 .ttus.tructiepbongda.me
 .ttwrhns.cn
 .ttwscqlqmbcb.com
+.ttwwy.top
 .ttxs8.xyz
 .ttylmex.cn
 .ttyvdilxsuorg.com
@@ -115626,6 +115648,7 @@ zzzrtrcm2.com
 .vongomedia.ru
 .vongquay-pubgmobilevn-zing.com
 .vongquaymienphi.net
+.vongsond.uno
 .voob.ru
 .voocl.com
 .vooculok.com
@@ -117557,6 +117580,7 @@ zzzrtrcm2.com
 .wqmfbqpbnmgyi.com
 .wqmobile.com
 .wqnmbecaugfpl.com
+.wqprtyg.cn
 .wqqsa.puzihua.com
 .wqrgqthofslhx.com
 .wqsph.net
@@ -118991,6 +119015,7 @@ zzzrtrcm2.com
 .xeeptq.dyatkovo.ru
 .xegroxenu.com
 .xeihy.com
+.xektyy.cn
 .xekychacu.com
 .xel-xel-fie.com
 .xelllwrite.com

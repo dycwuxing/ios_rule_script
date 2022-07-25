@@ -1,14 +1,13 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-07-25 02:28:28
-! Total: 135411
+! Updated: 2022-07-25 10:02:22
+! Total: 135427
 
 
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||46186911.vtt^
-||666734.xyz^
 ||80055404.vtt^
 ||absurdapple.com^
 ||adfox.yandex.ru^
@@ -31,16 +30,12 @@
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
 ||bs.yandex.ru^
-||cengbalx.fun^
-||clb.yahoo.co.jp^
 ||collector2c.zhihuishu.com^
 ||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
-||dfsvhv88.com^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||efficientapplesimulator.com^
-||fdsousf.cn^
 ||fpb1.apple886.com^
 ||ganon.yahoo.com^
 ||geo.yahoo.com^
@@ -50,8 +45,6 @@
 ||informer.yandex.ru^
 ||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
-||lingke05.top^
-||log.dzen.ru^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
 ||mc.yandex.ru^
@@ -59,26 +52,17 @@
 ||meitaolianmeng.ltd^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
-||msjj.tech^
 ||nol.yahoo.com^
-||otownx.xyz^
-||oyecntg.cn^
 ||pr.comet.yahoo.com^
 ||pv.sohu.com^
 ||rrf.fat1domain1^
 ||shackapple.com^
-||speedhq.net^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
 ||supportmetrics.apple.com^
-||sxieqbu.cn^
-||taipingyang.hk^
-||tertqm.cn^
 ||test.vast^
 ||theapple.site^
 ||visit.webhosting.yahoo.com^
-||vongsond.uno^
-||wqprtyg.cn^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
 ||0.code.cotsta.ru^
@@ -1754,6 +1738,7 @@
 ||666729.xyz^
 ||666732.xyz^
 ||666733.xyz^
+||666734.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -16116,6 +16101,7 @@
 ||cementencourage.com^
 ||cemukentha.xyz^
 ||cenceevent.club^
+||cengbalx.fun^
 ||cengizsozubek.com^
 ||cennoworld.com^
 ||cennter.com^
@@ -16218,6 +16204,7 @@
 ||cervell.io^
 ||cesartech.com^
 ||ceseyitsikzs.com^
+||ceshi10.ink^
 ||ceshi2.ink^
 ||ceshi5.ink^
 ||ceskydomov.alias.ngs.modry.cz^
@@ -17275,6 +17262,7 @@
 ||clayheart.com^
 ||clayierglaiks.com^
 ||clb.bazzacco.net^
+||clb.yahoo.co.jp^
 ||clbanners16.com^
 ||clbjmp.com^
 ||clck.ru^
@@ -22238,6 +22226,7 @@
 ||dfsdfsdf.rumahweb.org^
 ||dfseafood.com^
 ||dfskgmrepts.com^
+||dfsvhv88.com^
 ||dftvhvapqxs.xyz^
 ||dfujqyjifvoe.com^
 ||dfwskw7.com^
@@ -27464,6 +27453,7 @@
 ||fdsa22n.87dianying.cn^
 ||fdsfds.cecilialagoons.com^
 ||fdsgv.xyz^
+||fdsousf.cn^
 ||fdsur.com^
 ||fdsz.n27lw.cn^
 ||fdvewptkqfnrok.com^
@@ -31459,6 +31449,7 @@
 ||gladiol9us10.com^
 ||glaimtug.com^
 ||glainsee.com^
+||glaivoun.net^
 ||glaiwhee.net^
 ||glaixich.net^
 ||glakemoss.com^
@@ -34304,6 +34295,7 @@
 ||hftyrwqjknhzoa.com^
 ||hfubvezyoyqs.com^
 ||hfwmgail.com^
+||hfwzbp.cn^
 ||hfzikiht.com^
 ||hfzq1600.com^
 ||hg-bn.com^
@@ -42752,6 +42744,7 @@
 ||lingintirejohny.club^
 ||lingjunedu.com^
 ||lingke03.top^
+||lingke05.top^
 ||linglingccc.xyz^
 ||lingospot.com^
 ||lingqinga.cn^
@@ -43377,6 +43370,7 @@
 ||log.down61.com^
 ||log.droid4x.cn^
 ||log.dubaotiente.com^
+||log.dzen.ru^
 ||log.easy39.com^
 ||log.enuri.com^
 ||log.estand.jp^
@@ -47833,6 +47827,7 @@
 ||msiegurhgfyl.com^
 ||msihacks.com^
 ||msisvvxmnpm.com^
+||msjj.tech^
 ||msjxxz.com^
 ||mslinks-downloads.com^
 ||mslivegirl.com^
@@ -52563,6 +52558,7 @@
 ||otooleautoglass.com^
 ||otorcycletrai.com^
 ||otoshiana.com^
+||otownx.xyz^
 ||otpckmnnfm.com^
 ||otpercpiheno.blogspot.com^
 ||otpercpiheno.hu^
@@ -52861,6 +52857,7 @@
 ||oyaqzikgjw.com^
 ||oybahnktadxjju.com^
 ||oycslia.xyz^
+||oyecntg.cn^
 ||oygohusvggaurod.xyz^
 ||oyi9f1kbaj.com^
 ||oyiqkjsjmmde.com^
@@ -54753,6 +54750,7 @@
 ||pitaya-organicos.com^
 ||pitbull-marketing.com^
 ||pitchedfurs.com^
+||pitchedsprout.com^
 ||pitchforkny.com^
 ||pitchtext.com^
 ||pitduougk.com^
@@ -63451,6 +63449,7 @@
 ||shvhse.com^
 ||shweflix.com^
 ||shweiwen.cn^
+||shygkl.com^
 ||shyheglasy.com^
 ||shyhuetub.site^
 ||shyseed.com^
@@ -65058,6 +65057,7 @@
 ||speedcounter.net^
 ||speedcounts.com^
 ||speedcurve.com^
+||speedhq.net^
 ||speediest.net^
 ||speedmovies.net^
 ||speedomizer.com^
@@ -66773,6 +66773,7 @@
 ||suinglygaggler.com^
 ||suissemicron.com^
 ||suissepharma.com^
+||suitcasesimbue.com^
 ||suite6ixty6ix.com^
 ||suitelimit.net^
 ||suitesbahrag.icu^
@@ -67307,6 +67308,7 @@
 ||sxgmppxfts.com^
 ||sxhjty.cn^
 ||sxhpwsgdyhw.com^
+||sxieqbu.cn^
 ||sxiyvcqnp.com^
 ||sxjcnm.com^
 ||sxjhskptisd.com^
@@ -67747,6 +67749,7 @@
 ||taiok88.app^
 ||taioncgaiynzt.com^
 ||taiphaib.net^
+||taipingyang.hk^
 ||taiquandao1.cn^
 ||taishijian.com^
 ||taishu.shop^
@@ -68489,6 +68492,7 @@
 ||territoria-remonta.ru^
 ||tersereah-kamu.rumahweb.org^
 ||tertmateruse.ru^
+||tertqm.cn^
 ||terttalkinhitin.pro^
 ||terviyandefolnedse.com^
 ||terytelevel.xyz^
@@ -71361,6 +71365,7 @@
 ||ttwitter.com^
 ||ttwrhns.cn^
 ||ttwscqlqmbcb.com^
+||ttwwy.top^
 ||ttxs8.xyz^
 ||ttylmex.cn^
 ||ttyvdilxsuorg.com^
@@ -74723,6 +74728,7 @@
 ||vongomedia.ru^
 ||vongquay-pubgmobilevn-zing.com^
 ||vongquaymienphi.net^
+||vongsond.uno^
 ||vonlotushausdogs.com^
 ||voob.ru^
 ||voocl.com^
@@ -77114,6 +77120,7 @@
 ||wqnxcthitqpf.com^
 ||wqocynupmbad.com^
 ||wqpcxujvkvhr.com^
+||wqprtyg.cn^
 ||wqpyqirgzfqsc.com^
 ||wqrgqthofslhx.com^
 ||wqrwopgkkohk.com^
@@ -78464,6 +78471,7 @@
 ||xegavyzkxowj.com^
 ||xegroxenu.com^
 ||xegvnhpwytev.com^
+||xektyy.cn^
 ||xekychacu.com^
 ||xel-xel-fie.com^
 ||xelllwrite.com^
@@ -103506,6 +103514,7 @@
 ||3d0da2373af57.com^
 ||3d1a1e7f6db3.com^
 ||3d643f542787c62a7.com^
+||3dcn.me^
 ||3dm.3dimensional.com^
 ||3e787c93af8de.com^
 ||3edc.cn^
@@ -103704,6 +103713,7 @@
 ||660a755deb8829fe.com^
 ||661291.com^
 ||6613167.cn^
+||666735.xyz^
 ||668559.com^
 ||66ce98158e4f402.com^
 ||66wen.com^
@@ -109221,6 +109231,7 @@
 ||eeme7j.win^
 ||eenfertyred.top^
 ||eeo.5du5.com^
+||eeoqsr.cn^
 ||eep.pukachu.lol^
 ||eer.zhthf.com^
 ||eeveniccoll.club^
@@ -111102,7 +111113,6 @@
 ||hfolmr.office-com.jp^
 ||hfqclrllll.com^
 ||hfqxjx.cn^
-||hfwzbp.cn^
 ||hg5858.net^
 ||hg98089.com^
 ||hgglguotkgfo.com^
@@ -113221,6 +113231,7 @@
 ||loginfra.com^
 ||logitepic.com^
 ||logs-01.loggly.com^
+||logs-partners.coupang.com^
 ||logs.81plug.com^
 ||logs.datadoghq.com^
 ||logs.ironsrc.mobi^
@@ -115884,6 +115895,7 @@
 ||oiwnrl.theory.co.jp^
 ||ojbhoukw.com^
 ||ojeergoy.com^
+||ojgtbs.cn^
 ||ojj258.com^
 ||ojwd63thskiz.com^
 ||ojwebb.vivaaerobus.com^
@@ -117430,6 +117442,7 @@
 ||qrius.me^
 ||qrksjrjppkam.com^
 ||qrlgcrzmbuy.com^
+||qrnmyn.cn^
 ||qrrhvh.propertyfinder.ae^
 ||qrtjwa.cn^
 ||qstore.inner.api.sj.360.cn^
@@ -121570,6 +121583,7 @@
 ||tn34lkn.com^
 ||tnc3-aliec2.snssdk.com^
 ||tncexvzu.com^
+||tncid.app^
 ||tniujy.natura.com.br^
 ||tnl808z.cn^
 ||tns-sifo.se^
@@ -121604,6 +121618,7 @@
 ||tongji.wlongchina.com^
 ||tongjiyu.com^
 ||tongpinmall.cn^
+||tongsone.uno^
 ||tongue.jamcity.com^
 ||tonsterandhantan.info^
 ||tontent.powvideo.net^
@@ -123289,6 +123304,7 @@
 ||woawouru.net^
 ||wodemeitu.com^
 ||wofan.net^
+||woffxxx.com^
 ||wohong5.com^
 ||woixov.elyts.ru^
 ||wojdn.com^
@@ -123567,7 +123583,6 @@
 ||xedo.me^
 ||xehcnpvqdicvx.com^
 ||xejevl.newchic.com^
-||xektyy.cn^
 ||xenfrastucter.com^
 ||xeoezl.major7.net^
 ||xesigyno.pro^
@@ -123626,6 +123641,7 @@
 ||xinshengchuanmei.cn^
 ||xintaizhaoming.com^
 ||xinyikeji.red^
+||xinyuejiayuan.com^
 ||xiongyin.com^
 ||xioodnxc1p1a.com^
 ||xiqgqftva.com^

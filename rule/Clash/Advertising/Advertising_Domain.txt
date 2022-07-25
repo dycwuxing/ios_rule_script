@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 23:34:25
+# UPDATED: 2022-07-25 10:01:30
 # DOMAIN: 51478
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 70435
+# DOMAIN-SUFFIX: 70460
 # IP-CIDR: 256
-# TOTAL: 122253
+# TOTAL: 122278
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -52479,6 +52479,7 @@ opencloud.wostore.cn
 .666729.xyz
 .666732.xyz
 .666733.xyz
+.666734.xyz
 .6667778882021.site
 .666video.asia
 .668kbet.com
@@ -58865,6 +58866,7 @@ opencloud.wostore.cn
 .bcvcrdr.xyz
 .bcvideod.com
 .bcxamyjtnzuf.com
+.bd-js1.2345.com
 .bd.ahsrst.cn
 .bd.beimap.com
 .bd.dhsz.cn
@@ -61299,6 +61301,7 @@ opencloud.wostore.cn
 .cementencourage.com
 .cemukentha.xyz
 .cenceevent.club
+.cengbalx.fun
 .cennter.com
 .censusmiles.com
 .centauruspopyou.com
@@ -61344,6 +61347,7 @@ opencloud.wostore.cn
 .certifiedwinners.info
 .certifiedwinners.today
 .cervell.io
+.ceshi10.ink
 .ceshi2.ink
 .ceshi5.ink
 .ceskydomov.alias.ngs.modry.cz
@@ -61802,6 +61806,7 @@ opencloud.wostore.cn
 .claxonmedia.com
 .clayierglaiks.com
 .clb.bazzacco.net
+.clb.yahoo.co.jp
 .clbanners16.com
 .clbjmp.com
 .clck.ru
@@ -64860,6 +64865,7 @@ opencloud.wostore.cn
 .dfnetwork.link
 .dfokydq.cn
 .dfseafood.com
+.dfsvhv88.com
 .dftvhvapqxs.xyz
 .dfwskw7.com
 .dfxofvzd.com
@@ -67608,6 +67614,7 @@ opencloud.wostore.cn
 .fdrgtt9edmej010.com
 .fdrhbw.com
 .fdsgv.xyz
+.fdsousf.cn
 .fdsur.com
 .fdvewptkqfnrok.com
 .fdxstats.xyz
@@ -69399,6 +69406,7 @@ opencloud.wostore.cn
 .gladiol9us10.com
 .glaimtug.com
 .glainsee.com
+.glaivoun.net
 .glaiwhee.net
 .glaixich.net
 .glaksads.net
@@ -70779,6 +70787,7 @@ opencloud.wostore.cn
 .hfqjs.cn
 .hfrytno.cn
 .hfwmgail.com
+.hfwzbp.cn
 .hfzq1600.com
 .hg-bn.com
 .hg8dc7bm.com
@@ -75265,6 +75274,7 @@ opencloud.wostore.cn
 .lingerstored.com
 .lingintirejohny.club
 .lingke03.top
+.lingke05.top
 .linglingccc.xyz
 .lingospot.com
 .lingqinga.cn
@@ -75659,6 +75669,7 @@ opencloud.wostore.cn
 .log.down61.com
 .log.droid4x.cn
 .log.dubaotiente.com
+.log.dzen.ru
 .log.easy39.com
 .log.enuri.com
 .log.estand.jp
@@ -78078,6 +78089,7 @@ opencloud.wostore.cn
 .mshago.com
 .mshelp247.weebly.com
 .mshues.com
+.msjj.tech
 .msjxxz.com
 .mslinks-downloads.com
 .msmetrics.ws.sonos.com
@@ -80583,6 +80595,7 @@ opencloud.wostore.cn
 .otnolatrnup.com
 .otogkg.com
 .otoshiana.com
+.otownx.xyz
 .otpercpiheno.blogspot.com
 .otpercpiheno.hu
 .otqjtkbkftehq.com
@@ -80782,6 +80795,7 @@ opencloud.wostore.cn
 .oxyphilsebkha.com
 .oxzwsxs.cn
 .oycslia.xyz
+.oyecntg.cn
 .oygohusvggaurod.xyz
 .oyi9f1kbaj.com
 .oyknmi.cn
@@ -81770,6 +81784,7 @@ opencloud.wostore.cn
 .pitakchon.com
 .pitbull-marketing.com
 .pitchedfurs.com
+.pitchedsprout.com
 .piticlik.com
 .pitomcydoma.ru
 .pitpastraja.com
@@ -86715,6 +86730,7 @@ opencloud.wostore.cn
 .shvhse.com
 .shweflix.com
 .shweiwen.cn
+.shygkl.com
 .shyheglasy.com
 .shyhuetub.site
 .shyseed.com
@@ -87582,6 +87598,7 @@ opencloud.wostore.cn
 .speedcount.de
 .speedcounter.net
 .speedcurve.com
+.speedhq.net
 .speedomizer.com
 .speedsagesleepy.com
 .speedservicenow.com
@@ -88549,6 +88566,7 @@ opencloud.wostore.cn
 .suined.com
 .suinglygaggler.com
 .suissemicron.com
+.suitcasesimbue.com
 .suite6ixty6ix.com
 .suitesbahrag.icu
 .suitesmart.com
@@ -88835,6 +88853,7 @@ opencloud.wostore.cn
 .sxehny.cn
 .sxgbwlkjkj.xyz
 .sxhjty.cn
+.sxieqbu.cn
 .sxjcnm.com
 .sxmcwlw.com
 .sxmyyx.com
@@ -89130,6 +89149,7 @@ opencloud.wostore.cn
 .taiok88.app
 .taioncgaiynzt.com
 .taiphaib.net
+.taipingyang.hk
 .taiquandao1.cn
 .taishijian.com
 .taishu.shop
@@ -89539,6 +89559,7 @@ opencloud.wostore.cn
 .terriblekindlypeter.com
 .territoria-remonta.ru
 .tertmateruse.ru
+.tertqm.cn
 .terttalkinhitin.pro
 .terytelevel.xyz
 .teslaamg.obs.cn-east-3.myhuaweicloud.com
@@ -91204,6 +91225,7 @@ opencloud.wostore.cn
 .ttus.tructiepbongda.me
 .ttwrhns.cn
 .ttwscqlqmbcb.com
+.ttwwy.top
 .ttxs8.xyz
 .ttylmex.cn
 .ttyvdilxsuorg.com
@@ -93027,6 +93049,7 @@ opencloud.wostore.cn
 .vongomedia.ru
 .vongquay-pubgmobilevn-zing.com
 .vongquaymienphi.net
+.vongsond.uno
 .voob.ru
 .voocl.com
 .vooculok.com
@@ -94390,6 +94413,7 @@ opencloud.wostore.cn
 .wqlkp.com
 .wqmfbqpbnmgyi.com
 .wqnmbecaugfpl.com
+.wqprtyg.cn
 .wqrgqthofslhx.com
 .wqssibpfobsi.xyz
 .wqyipmakwh.com
@@ -95249,6 +95273,7 @@ opencloud.wostore.cn
 .xdw9.top
 .xdwqq.cn
 .xegroxenu.com
+.xektyy.cn
 .xekychacu.com
 .xel-xel-fie.com
 .xelllwrite.com

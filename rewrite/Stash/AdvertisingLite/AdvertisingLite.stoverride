@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2022-07-19 20:17:02
+desc: 最后更新时间 2022-07-25 10:05:40
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 353
-# mitm: 289
+# reject: 352
+# mitm: 288
 # force-http-engine-hosts: 6
-# total: 648
+# total: 646
 
 
 
@@ -293,7 +293,6 @@ http:
     - ^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info - reject
     - ^https?:\/\/r\.inews\.qq\.com\/(adsBlacklist|getBannerAds|getFullScreenPic|getNewsRemoteConfig|getQQNewsRemoteConfig|searchHotCatList|upLoadLoc) - reject
     - ^https?:\/\/render-oss-cdn\.amap\.com\/render\/studio-dev\/image\/ - reject
-    - ^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json - reject
     - ^https?:\/\/res-release\.wuta-cam\.com\/json\/ads_component_cache\.json - reject
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) - reject
     - ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget - reject
@@ -599,7 +598,6 @@ http:
     - "qt.qq.com"
     - "r.inews.qq.com"
     - "render-oss-cdn.amap.com"
-    - "render.alipay.com"
     - "res-release.wuta-cam.com"
     - "res.xiaojukeji.com"
     - "restapi.iyunmai.com"

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-24 23:35:19
+# UPDATED: 2022-07-25 10:02:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 46001
+# DOMAIN: 45985
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89419
+# DOMAIN-SUFFIX: 89451
 # IP-CIDR: 257
 # URL-REGEX: 301
-# TOTAL: 136242
+# TOTAL: 136258
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -850,7 +850,6 @@
 65e750617ae8f0421.com
 65h79.cn
 66600619.com
-666734.xyz
 669-diet.com-swd.net
 671-fitness.com-swd.net
 671.stats.misstrends.com
@@ -7643,7 +7642,6 @@ cellulitecreamsite.com
 celular-para-empresa.com
 cemclass78.com
 cemderser.com
-cengbalx.fun
 cengizsozubek.com
 cennoworld.com
 center-free-borne.com
@@ -8394,7 +8392,6 @@ classicspeedway.com
 classtaxis.com
 claudioespinola.com
 clayheart.com
-clb.yahoo.co.jp
 clckmedia.club
 clcollegeofpharmacy.com
 clean-cracks.com
@@ -10702,7 +10699,6 @@ dfrs12kz9qye2.cloudfront.net
 dfrtcvlab.xyz
 dfsdfsdf.rumahweb.org
 dfskgmrepts.com
-dfsvhv88.com
 dfujqyjifvoe.com
 dfxvfkutloxnyl.com
 dfyudpyceqoy.com
@@ -13931,7 +13927,6 @@ fdrqokusnwpq.com
 fdrqqpeengzj.com
 fdsa22n.87dianying.cn
 fdsfds.cecilialagoons.com
-fdsousf.cn
 fdsz.n27lw.cn
 fdvilavipz.com
 fdvmskmentjob.com
@@ -23429,7 +23424,6 @@ line.beike188.com
 linenghb.com
 linformanceder.info
 lingjunedu.com
-lingke05.top
 lingrethertantin.pro
 link-sss.com
 link.huffingtonpost.com
@@ -23740,7 +23734,6 @@ log.aebn.net
 log.appchina.com
 log.bling.samuraiworks.com
 log.byteoversea.com.edgekey.net
-log.dzen.ru
 log.fotoable.com
 log.getdropbox.com
 log.hankooki.com
@@ -26437,7 +26430,6 @@ msiegurhgfyl.com
 msigpurubzkm.com
 msihacks.com
 msisvvxmnpm.com
-msjj.tech
 mslivegirl.com
 msmaijsxlo.com
 msnads-wm9.fplive.net
@@ -29303,7 +29295,6 @@ otmonog.info
 otmyoesv.com
 otooleautoglass.com
 otorcycletrai.com
-otownx.xyz
 otoxkqlivsqr.com
 otpckmnnfm.com
 otpyldlrygga.com
@@ -29451,7 +29442,6 @@ oxxieslife.com
 oxzffweyw.com
 oyaqzikgjw.com
 oybahnktadxjju.com
-oyecntg.cn
 oyfncnedrymc.com
 oyfsdpmhncobvj.com
 oyhnizdr4bxkz0.com
@@ -36198,7 +36188,6 @@ speed.trkmobile.xyz
 speedbar.myway.com
 speedchiller.com
 speedcounts.com
-speedhq.net
 speediest.net
 speedlinkdown.com
 speedmovies.net
@@ -37357,7 +37346,6 @@ sxe-shield.com
 sxedqvvaxxj.com
 sxgmppxfts.com
 sxhpwsgdyhw.com
-sxieqbu.cn
 sxiyvcqnp.com
 sxjhskptisd.com
 sxlsk.saqibsiddiqui.com
@@ -37604,7 +37592,6 @@ taihehao.net
 tailorcave.com
 tailpdulprkp.com
 tainguyensaefood.com
-taipingyang.hk
 taixingindustry.cn
 taiyangnengchukou.cn
 take.cloudbank.xyz
@@ -38003,7 +37990,6 @@ terresdestel.com
 terrevita.com
 terribleturkey.com
 tersereah-kamu.rumahweb.org
-tertqm.cn
 terviyandefolnedse.com
 teschenite.com
 tesco.100giveaways.com
@@ -41499,7 +41485,6 @@ volimole.com
 volleqgoafcb.com
 volpefurniture.com
 volzilainxs.com
-vongsond.uno
 vonlotushausdogs.com
 vonvthodzhxz.com
 voolamp.com
@@ -42855,7 +42840,6 @@ wqnxcthitqpf.com
 wqobjrevtkqym.com
 wqocynupmbad.com
 wqpcxujvkvhr.com
-wqprtyg.cn
 wqpyqirgzfqsc.com
 wqrwopgkkohk.com
 wqtdtstdxg.com
@@ -47484,6 +47468,7 @@ zzzrtrcm2.com
 .3d5b53449b.com
 .3d643f542787c62a7.com
 .3daed168ad.com
+.3dcn.me
 .3djd3.xyz
 .3dk.tech
 .3dlivestats.com
@@ -48243,6 +48228,8 @@ zzzrtrcm2.com
 .666729.xyz
 .666732.xyz
 .666733.xyz
+.666734.xyz
+.666735.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -63678,6 +63665,7 @@ zzzrtrcm2.com
 .cemukentha.xyz
 .cenceevent.club
 .cenessdise.info
+.cengbalx.fun
 .cenmxn.koton.com
 .cennter.com
 .census.misterspex.at
@@ -63753,6 +63741,7 @@ zzzrtrcm2.com
 .certifiedwinners.today
 .ceruchina.com
 .cervell.io
+.ceshi10.ink
 .ceshi2.ink
 .ceshi5.ink
 .cesikelylibrarie.site
@@ -64632,6 +64621,7 @@ zzzrtrcm2.com
 .clayierglaiks.com
 .claz.com.cn
 .clb.bazzacco.net
+.clb.yahoo.co.jp
 .clbanners16.com
 .clbjmp.com
 .clc.stackoverflow.com
@@ -70251,6 +70241,7 @@ zzzrtrcm2.com
 .dfokydq.cn
 .dfp.bouncex.net
 .dfseafood.com
+.dfsvhv88.com
 .dftoutiao.com
 .dftvhvapqxs.xyz
 .dfvdkx.gismeteo.ua
@@ -73196,6 +73187,7 @@ zzzrtrcm2.com
 .eengaums.com
 .eensoans.com
 .eeo.5du5.com
+.eeoqsr.cn
 .eeoylmkd.com
 .eep.pukachu.lol
 .eephaush.com
@@ -75956,6 +75948,7 @@ zzzrtrcm2.com
 .fdrhbw.com
 .fdrptpyxchzjk.com
 .fdsgv.xyz
+.fdsousf.cn
 .fdsur.com
 .fdt.kraken.com
 .fdvewptkqfnrok.com
@@ -79212,6 +79205,7 @@ zzzrtrcm2.com
 .glailols.com
 .glaimtug.com
 .glainsee.com
+.glaivoun.net
 .glaiwhee.net
 .glaixich.net
 .glaksads.net
@@ -90232,6 +90226,7 @@ zzzrtrcm2.com
 .linghangshouji.com
 .lingintirejohny.club
 .lingke03.top
+.lingke05.top
 .linglingccc.xyz
 .linglong.supersuer.com
 .linglong001.com
@@ -91044,6 +91039,7 @@ zzzrtrcm2.com
 .log.down61.com
 .log.droid4x.cn
 .log.dubaotiente.com
+.log.dzen.ru
 .log.easy39.com
 .log.ecgh.dk
 .log.enuri.com
@@ -91307,6 +91303,7 @@ zzzrtrcm2.com
 .logru.vietnamplus.vn
 .logs-01.loggly.com
 .logs-api.shoprunner.com
+.logs-partners.coupang.com
 .logs-qos.tf1.fr
 .logs.51cto.com
 .logs.81plug.com
@@ -97297,6 +97294,7 @@ zzzrtrcm2.com
 .mshues.com
 .msioay.backcountry.com
 .msite.baidu.com
+.msjj.tech
 .msjxxz.com
 .mskjf.com
 .mslimitages.site
@@ -100648,6 +100646,7 @@ zzzrtrcm2.com
 .ojbknb.com
 .ojbknx.com
 .ojeergoy.com
+.ojgtbs.cn
 .ojhmakoqg.com
 .ojj258.com
 .ojm4.palladiumhotelgroup.com
@@ -101642,6 +101641,7 @@ zzzrtrcm2.com
 .otnolatrnup.com
 .otogkg.com
 .otoshiana.com
+.otownx.xyz
 .otpercpiheno.blogspot.com
 .otpercpiheno.hu
 .otqjtkbkftehq.com
@@ -101983,6 +101983,7 @@ zzzrtrcm2.com
 .oycslia.xyz
 .oycslib.xyz
 .oycslic.xyz
+.oyecntg.cn
 .oyeesfrencha.fun
 .oyell.net
 .oygohusvggaurod.xyz
@@ -103803,6 +103804,7 @@ zzzrtrcm2.com
 .pitatagata.com
 .pitbull-marketing.com
 .pitchedfurs.com
+.pitchedsprout.com
 .pitegirlfridg.top
 .pitena.top
 .piti.bplaced.net
@@ -107219,6 +107221,7 @@ zzzrtrcm2.com
 .qrksjrjppkam.com
 .qrlgcrzmbuy.com
 .qrlsx.com
+.qrnmyn.cn
 .qrrhvh.propertyfinder.ae
 .qrstes.com
 .qrtjwa.cn
@@ -113036,6 +113039,7 @@ zzzrtrcm2.com
 .shxqeps.com
 .shyama-jay.com
 .shyanche.net
+.shygkl.com
 .shyheglasy.com
 .shyhuetub.site
 .shypqc.com
@@ -116408,6 +116412,7 @@ zzzrtrcm2.com
 .speedcount.de
 .speedcounter.net
 .speedcurve.com
+.speedhq.net
 .speednetwork14.com
 .speedometergreatness.com
 .speedomizer.com
@@ -119144,6 +119149,7 @@ zzzrtrcm2.com
 .suinglygaggler.com
 .suissemicron.com
 .suitarserviku.site
+.suitcasesimbue.com
 .suite6ixty6ix.com
 .suitesbahrag.icu
 .suitesmart.com
@@ -119700,6 +119706,7 @@ zzzrtrcm2.com
 .sxehny.cn
 .sxgbwlkjkj.xyz
 .sxhjty.cn
+.sxieqbu.cn
 .sxjcjdc.cn
 .sxjcnm.com
 .sxjeyg.21vek.by
@@ -120443,6 +120450,7 @@ zzzrtrcm2.com
 .taiok88.app
 .taioncgaiynzt.com
 .taiphaib.net
+.taipingyang.hk
 .taiquandao1.cn
 .taishijian.com
 .taishu.shop
@@ -121237,6 +121245,7 @@ zzzrtrcm2.com
 .terskneesian.space
 .terthoreper.ru
 .tertmateruse.ru
+.tertqm.cn
 .terttalkinhitin.pro
 .terytelevel.xyz
 .tescellowin.top
@@ -122329,6 +122338,7 @@ zzzrtrcm2.com
 .tnarzc.com
 .tnative.ru
 .tncexvzu.com
+.tncid.app
 .tncomg.com
 .tncred.com
 .tnctrx.com
@@ -122472,6 +122482,7 @@ zzzrtrcm2.com
 .tongjiyu.com
 .tongpinmall.cn
 .tongqing2015.com
+.tongsone.uno
 .tongwanjy.cn
 .tongxinren.co
 .tongzhan.info
@@ -124733,6 +124744,7 @@ zzzrtrcm2.com
 .ttus.tructiepbongda.me
 .ttwrhns.cn
 .ttwscqlqmbcb.com
+.ttwwy.top
 .ttxknb.com
 .ttxs8.xyz
 .ttylmex.cn
@@ -127843,6 +127855,7 @@ zzzrtrcm2.com
 .vongomedia.ru
 .vongquay-pubgmobilevn-zing.com
 .vongquaymienphi.net
+.vongsond.uno
 .voob.ru
 .voocl.com
 .vooculok.com
@@ -130052,6 +130065,7 @@ zzzrtrcm2.com
 .wodycaha.com
 .woeocbeswhf.xyz
 .wofan.net
+.woffxxx.com
 .wofjhs.com
 .wofri.uihdlx.xyz
 .wohchuuemjs.com
@@ -130298,6 +130312,7 @@ zzzrtrcm2.com
 .wqnmbecaugfpl.com
 .wqpeltrb.com
 .wqpoqalozlciw.com
+.wqprtyg.cn
 .wqqsa.puzihua.com
 .wqrgqthofslhx.com
 .wqsph.net
@@ -132086,6 +132101,7 @@ zzzrtrcm2.com
 .xinym2.xyz
 .xinyuanstudio.com
 .xinyuanzszy.com
+.xinyuejiayuan.com
 .xinzheng8.pw
 .xiongdong.com
 .xiongfengwang.com.cn
